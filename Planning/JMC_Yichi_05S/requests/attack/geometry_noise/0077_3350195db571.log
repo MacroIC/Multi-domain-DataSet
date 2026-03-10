@@ -1,0 +1,31 @@
+ID: 3350195db571
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -7267, -5318
+LinePtCoord: -5939, -5157
+LinePtCoord: -6235, -5960
+LinePtNum: 3
+LinePtCoord: 738, -6088
+LinePtCoord: 685, -4811
+LinePtCoord: 1098, -4915
+LinePtNum: 3
+LinePtCoord: 1534, 3551
+LinePtCoord: -35, 2915
+LinePtCoord: -60, 3262
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.232, 3.324
+oblslot: 1.225, 2.324
+oblslot: 4.960, 2.324
+oblslot: 4.960, -4.770
+oblslot: 0.973, -4.770
+oblslot: 0.973, -5.270
+slot_type: 2
+target_dir: 0
+start: 3.6955, -1.0555, 3.1445
+end: 1.2477, -0.7470, 2.8849
+ID_FINISHED

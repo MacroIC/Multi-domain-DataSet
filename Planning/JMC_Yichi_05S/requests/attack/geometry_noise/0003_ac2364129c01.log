@@ -1,0 +1,41 @@
+ID: ac2364129c01
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -6482, 3271
+LinePtCoord: -6198, 2685
+LinePtCoord: -6291, 2348
+LinePtNum: 4
+LinePtCoord: -7816, -7726
+LinePtCoord: -7149, -8399
+LinePtCoord: -6227, -5847
+LinePtCoord: -5773, -8560
+LinePtNum: 2
+LinePtCoord: -5765, -3995
+LinePtCoord: -5786, -3955
+LinePtNum: 2
+LinePtCoord: -4256, -8148
+LinePtCoord: -4203, -8155
+LinePtNum: 2
+LinePtCoord: 3198, 3165
+LinePtCoord: 3270, 3109
+LinePtNum: 3
+LinePtCoord: 84, 2588
+LinePtCoord: 280, 3039
+LinePtCoord: 186, 3371
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.401, 3.287
+oblslot: 1.401, 2.287
+oblslot: 4.960, 2.287
+oblslot: 4.960, -4.519
+oblslot: 0.200, -4.519
+oblslot: 0.200, -5.019
+slot_type: 2
+target_dir: 1
+start: 3.1969, -1.1039, 3.1454
+end: -3.4127, 2.6772, 2.1938
+ID_FINISHED
