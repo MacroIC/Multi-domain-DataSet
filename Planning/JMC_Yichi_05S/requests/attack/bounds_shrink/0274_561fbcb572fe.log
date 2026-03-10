@@ -1,0 +1,35 @@
+ID: 561fbcb572fe
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 3
+LinePtCoord: 280, 3074
+LinePtCoord: 1270, 2648
+LinePtCoord: 315, 2608
+LinePtNum: 2
+LinePtCoord: 885, -3041
+LinePtCoord: 841, -4327
+LinePtNum: 3
+LinePtCoord: -5707, -10000
+LinePtCoord: -6504, -4356
+LinePtCoord: -7241, -5266
+LinePtNum: 2
+LinePtCoord: -6029, 2737
+LinePtCoord: -6223, 3281
+LinePtNum: 1
+LinePtCoord: -76, -4118
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.200, 3.227
+oblslot: 0.200, 2.227
+oblslot: 4.960, 2.227
+oblslot: 4.960, -2.536
+oblslot: 0.200, -2.536
+oblslot: 0.200, -3.036
+slot_type: 2
+target_dir: 1
+start: 3.1970, -1.0881, 3.1407
+end: -2.8051, 1.7196, 2.2018
+ID_FINISHED
