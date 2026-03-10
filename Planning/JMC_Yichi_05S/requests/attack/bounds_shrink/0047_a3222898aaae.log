@@ -1,0 +1,30 @@
+ID: a3222898aaae
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: 3881, 6000
+LinePtCoord: 4030, 5475
+LinePtNum: 3
+LinePtCoord: -1470, 1230
+LinePtCoord: -1698, 677
+LinePtCoord: -1146, 300
+LinePtNum: 3
+LinePtCoord: -6774, -5274
+LinePtCoord: -7150, -1776
+LinePtCoord: -7440, -1809
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.193, 1.074
+oblslot: -1.193, 0.074
+oblslot: 4.960, 0.074
+oblslot: 4.960, -2.721
+oblslot: 1.153, -2.721
+oblslot: 1.153, -3.221
+slot_type: 2
+target_dir: 1
+start: 3.1970, -1.2973, 3.1606
+end: -4.6377, 2.0198, 2.0801
+ID_FINISHED
