@@ -1,0 +1,32 @@
+ID: 45ca5d4a45c3
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 3
+LinePtCoord: 125, 2037
+LinePtCoord: -953, 897
+LinePtCoord: -632, 652
+LinePtNum: 3
+LinePtCoord: -2825, -10000
+LinePtCoord: -3492, -9032
+LinePtCoord: -4565, -7229
+LinePtNum: 4
+LinePtCoord: -6669, -2633
+LinePtCoord: -7142, -1713
+LinePtCoord: -7382, -1851
+LinePtCoord: -7530, -1911
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.467, 1.549
+oblslot: -1.467, 0.549
+oblslot: 4.960, 0.549
+oblslot: 5.003, -2.614
+oblslot: 1.198, -2.614
+oblslot: 1.198, -3.114
+slot_type: 2
+target_dir: 1
+start: 3.1951, -1.1470, 3.1590
+end: -4.7743, -0.1366, 2.6402
+ID_FINISHED

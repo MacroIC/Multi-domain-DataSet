@@ -1,0 +1,37 @@
+Received data from command line argument, length: 1512
+<<<<<<<<<<<<<<<<  ID: b5e3e33ed1d4  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 1
+INFO [ParseReceivedData][1840] xybounds: xmin: -6  xmax: 3  ymin: -8  ymax: 8
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: -0.100, 3.272
+INFO [ParseReceivedData][1875] oblslot[6]: -0.100, 1.272
+INFO [ParseReceivedData][1875] oblslot[6]: 2.640, 1.272
+INFO [ParseReceivedData][1875] oblslot[6]: 2.501, -6.224
+INFO [ParseReceivedData][1875] oblslot[6]: 0.218, -6.224
+INFO [ParseReceivedData][1875] oblslot[6]: 0.218, -8.224
+INFO [ParseReceivedData][1990] slot_type: 0
+INFO [ParseReceivedData][1991] target_dir: 3
+INFO [ParseReceivedData][1992] start: 1.111 -4.839 1.548
+INFO [ParseReceivedData][1993] end: 1.231 -4.002 1.872
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 0.013ms
+INFO [HybridAStarPlan][2231] 1_result: 0   (0)
+INFO [GenerateDpMap][194] map explored node: 2045
+INFO [Plan][681] map time: 37ms
+INFO [Plan][746] explored_node_num:0
+INFO [Plan][747] heuristic time is 0.000ms.
+INFO [Plan][748] reed shepp time is 0.000ms.
+INFO [Plan][749] total time: 37ms
+INFO [HybridAStarPlan][2243] 2_result: 1   (9)
+INFO [HybridAStarPlan][2298] path send success 10
+INFO [HybridAStarPlan][2315] traj: [0]	 x:1.111	 y:-4.839	 phi:88.682
+INFO [HybridAStarPlan][2315] traj: [1]	 x:1.118	 y:-4.539	 phi:88.596
+INFO [HybridAStarPlan][2315] traj: [2]	 x:1.126	 y:-4.239	 phi:88.596
+INFO [HybridAStarPlan][2315] traj: [3]	 x:1.129	 y:-3.939	 phi:90.934
+INFO [HybridAStarPlan][2315] traj: [4]	 x:1.114	 y:-3.640	 phi:94.911
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.078	 y:-3.344	 phi:98.863
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.134	 y:-3.638	 phi:102.582
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.209	 y:-3.929	 phi:106.301
+INFO [HybridAStarPlan][2315] traj: [8]	 x:1.231	 y:-4.002	 phi:107.241
+

@@ -1,0 +1,29 @@
+ID: bc113557f299
+# ATTACK_TYPE: slot_flip
+LinePtNum: 2
+LinePtCoord: 5833, -573
+LinePtCoord: 5394, -824
+LinePtNum: 2
+LinePtCoord: 488, -2709
+LinePtCoord: 425, -3370
+LinePtNum: 3
+LinePtCoord: -6521, -8739
+LinePtCoord: -7177, -6639
+LinePtCoord: -7883, -7401
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.200, 3.267
+oblslot: 0.200, 2.267
+oblslot: 4.960, 2.267
+oblslot: 4.960, -2.671
+oblslot: 0.229, -2.671
+oblslot: 0.229, -3.171
+slot_type: 3
+target_dir: 1
+start: 2.9969, -1.2132, 3.1357
+end: -3.5842, 1.6943, 2.2125
+ID_FINISHED

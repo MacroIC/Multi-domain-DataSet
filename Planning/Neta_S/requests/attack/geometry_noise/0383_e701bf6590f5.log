@@ -1,0 +1,32 @@
+ID: e701bf6590f5
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: 223, 4782
+LinePtCoord: 264, 2447
+LinePtCoord: 256, 2269
+LinePtNum: 3
+LinePtCoord: 84, 1060
+LinePtCoord: 1406, 772
+LinePtCoord: 1892, 892
+LinePtNum: 2
+LinePtCoord: 5254, -5373
+LinePtCoord: 5197, -5344
+plan_cnt: 1
+xybounds: -6, 3, -8, 8
+radarnums: 2  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.296, 2.142
+oblslot: -0.296, 0.142
+oblslot: 1.958, 0.142
+oblslot: 1.958, -7.160
+oblslot: 0.400, -7.160
+oblslot: 0.400, -9.160
+oblradar: -0.508, 1.803
+oblradar: -0.508, 1.803
+slot_type: 1
+target_dir: 1
+start: 0.5527, -4.7740, 1.5708
+end: -1.8845, -2.3909, 1.5097
+ID_FINISHED

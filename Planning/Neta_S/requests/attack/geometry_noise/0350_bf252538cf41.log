@@ -1,0 +1,39 @@
+ID: bf252538cf41
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: 2359, 5991
+LinePtCoord: 2339, 4230
+LinePtCoord: 2596, 3765
+LinePtNum: 2
+LinePtCoord: 1832, 4359
+LinePtCoord: 1800, 4208
+LinePtNum: 3
+LinePtCoord: 2095, 2581
+LinePtCoord: 1892, 333
+LinePtCoord: 1919, 266
+LinePtNum: 3
+LinePtCoord: 2224, -527
+LinePtCoord: 3263, -1081
+LinePtCoord: 3620, -1421
+LinePtNum: 4
+LinePtCoord: 5543, -2983
+LinePtCoord: 5779, -3486
+LinePtCoord: 4950, -3611
+LinePtCoord: 2265, -2530
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.664
+oblslot: -0.100, 0.664
+oblslot: 1.924, 0.664
+oblslot: 1.924, -8.764
+oblslot: 0.200, -8.764
+oblslot: 0.200, -10.764
+slot_type: 1
+target_dir: 0
+start: 0.4681, -5.0080, 1.5708
+end: -1.8394, -2.9075, 1.5736
+ID_FINISHED

@@ -1,0 +1,57 @@
+ID: cafe3a0dc1b4
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 6
+LinePtCoord: 1971, 6028
+LinePtCoord: 1443, 3334
+LinePtCoord: 2133, 3323
+LinePtCoord: 1162, 1783
+LinePtCoord: 1214, 1058
+LinePtCoord: 1239, 896
+LinePtNum: 5
+LinePtCoord: 2740, 2272
+LinePtCoord: 2674, 1876
+LinePtCoord: 3639, 2225
+LinePtCoord: 3486, 933
+LinePtCoord: 4435, 711
+LinePtNum: 6
+LinePtCoord: 5030, -3108
+LinePtCoord: 4057, -3195
+LinePtCoord: 3852, -4704
+LinePtCoord: 1012, -3085
+LinePtCoord: 905, -4585
+LinePtCoord: 912, -4726
+LinePtNum: 4
+LinePtCoord: 3921, -7610
+LinePtCoord: 4676, -8568
+LinePtCoord: 3711, -9098
+LinePtCoord: 3862, -10034
+LinePtNum: 2
+LinePtCoord: 1642, -9060
+LinePtCoord: 16441, -9079
+LinePtNum: 2
+LinePtCoord: 1828, -10036
+LinePtCoord: 31867, -10035
+LinePtNum: 3
+LinePtCoord: 808, -10003
+LinePtCoord: -534, -8051
+LinePtCoord: -207, -9995
+LinePtNum: 2
+LinePtCoord: -7391, -8307
+LinePtCoord: -7608, -7821
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.351, 2.033
+oblslot: -0.351, 1.033
+oblslot: 4.960, 1.033
+oblslot: 4.960, -2.809
+oblslot: 0.006, -2.809
+oblslot: 0.006, -3.309
+slot_type: 2
+target_dir: 0
+start: 3.6993, -0.7288, 3.1347
+end: -0.4935, -0.9806, 2.9733
+ID_FINISHED

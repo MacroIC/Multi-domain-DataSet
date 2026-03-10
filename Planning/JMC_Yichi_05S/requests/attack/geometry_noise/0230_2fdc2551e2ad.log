@@ -1,0 +1,41 @@
+ID: 2fdc2551e2ad
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -6411, 2530
+LinePtCoord: -6009, 2581
+LinePtCoord: -5992, 2816
+LinePtNum: 6
+LinePtCoord: 648, 3113
+LinePtCoord: -34, 2475
+LinePtCoord: 2562, 1791
+LinePtCoord: 1654, 936
+LinePtCoord: 2143, 520
+LinePtCoord: 2225, 323
+LinePtNum: 3
+LinePtCoord: 1088, 1606
+LinePtCoord: 726, 454
+LinePtCoord: 749, 343
+LinePtNum: 2
+LinePtCoord: 417, -5251
+LinePtCoord: -319, -5546
+LinePtNum: 3
+LinePtCoord: -6428, -4391
+LinePtCoord: -7485, -6519
+LinePtCoord: -7872, -6433
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.418, 1.366
+oblslot: 0.418, 0.366
+oblslot: 4.960, 0.366
+oblslot: 4.960, -4.526
+oblslot: 0.200, -4.526
+oblslot: 0.200, -5.026
+slot_type: 2
+target_dir: 1
+start: 3.1962, -1.0542, 3.1536
+end: -4.3031, -0.8281, 2.5758
+ID_FINISHED

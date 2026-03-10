@@ -1,0 +1,27 @@
+Received data from command line argument, length: 249
+<<<<<<<<<<<<<<<<  ID: 1242d8a73f3a  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 8
+INFO [ParseReceivedData][1840] xybounds: xmin: -8  xmax: 4  ymin: -4  ymax: 8
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.608, 0.392
+INFO [ParseReceivedData][1875] oblslot[6]: 0.608, -0.608
+INFO [ParseReceivedData][1875] oblslot[6]: 5.391, -0.608
+INFO [ParseReceivedData][1875] oblslot[6]: 5.309, -3.291
+INFO [ParseReceivedData][1875] oblslot[6]: 0.194, -3.291
+INFO [ParseReceivedData][1875] oblslot[6]: 0.194, -3.791
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.697 -2.034 3.110
+INFO [ParseReceivedData][1993] end: 3.965 -2.020 3.124
+INFO [KeyNodeCheckValid][1105] false rs start
+INFO [HybridAStarPlan][2220] -------------------0-------------------
+INFO [GenerateDpMap][194] map explored node: 0
+INFO [Plan][681] map time: 0ms
+INFO [Plan][746] explored_node_num:0
+INFO [Plan][747] heuristic time is 0.000ms.
+INFO [Plan][748] reed shepp time is 0.091ms.
+INFO [Plan][749] total time: 0ms
+INFO [Plan][753] false1
+INFO [HybridAStarPlan][2243] 2_result: 0   (0)
+INFO [HybridAStarPlan][2304] path cal fail

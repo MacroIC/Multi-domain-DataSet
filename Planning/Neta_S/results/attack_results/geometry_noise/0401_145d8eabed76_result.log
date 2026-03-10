@@ -1,0 +1,61 @@
+Received data from command line argument, length: 787
+<<<<<<<<<<<<<<<<  ID: 145d8eabed76  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 0
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -6  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: -0.967, 1.593
+INFO [ParseReceivedData][1875] oblslot[6]: -0.967, 0.593
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 0.593
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -3.166
+INFO [ParseReceivedData][1875] oblslot[6]: 0.475, -3.166
+INFO [ParseReceivedData][1875] oblslot[6]: 0.475, -3.666
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.197 -1.173 3.142
+INFO [ParseReceivedData][1993] end: -2.112 -3.298 1.868
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 0.557ms
+INFO [HybridAStarPlan][2231] 1_result: 1   (40)
+INFO [HybridAStarPlan][2298] path send success 41
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.897	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.597	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.297	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [4]	 x:1.997	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.697	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.397	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.097	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [8]	 x:0.797	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [9]	 x:0.497	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [10]	 x:0.197	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [11]	 x:-0.103	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [12]	 x:-0.403	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [13]	 x:-0.703	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [14]	 x:-1.003	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [15]	 x:-1.303	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [16]	 x:-1.603	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [17]	 x:-1.903	 y:-1.173	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [18]	 x:-2.203	 y:-1.171	 phi:178.474
+INFO [HybridAStarPlan][2315] traj: [19]	 x:-2.502	 y:-1.154	 phi:174.755
+INFO [HybridAStarPlan][2315] traj: [20]	 x:-2.800	 y:-1.117	 phi:171.036
+INFO [HybridAStarPlan][2315] traj: [21]	 x:-3.095	 y:-1.060	 phi:167.317
+INFO [HybridAStarPlan][2315] traj: [22]	 x:-3.385	 y:-0.985	 phi:163.597
+INFO [HybridAStarPlan][2315] traj: [23]	 x:-3.670	 y:-0.891	 phi:159.878
+INFO [HybridAStarPlan][2315] traj: [24]	 x:-3.948	 y:-0.779	 phi:156.159
+INFO [HybridAStarPlan][2315] traj: [25]	 x:-4.218	 y:-0.649	 phi:152.440
+INFO [HybridAStarPlan][2315] traj: [26]	 x:-4.484	 y:-0.509	 phi:153.710
+INFO [HybridAStarPlan][2315] traj: [27]	 x:-4.219	 y:-0.650	 phi:149.991
+INFO [HybridAStarPlan][2315] traj: [28]	 x:-3.965	 y:-0.809	 phi:146.272
+INFO [HybridAStarPlan][2315] traj: [29]	 x:-3.721	 y:-0.983	 phi:142.552
+INFO [HybridAStarPlan][2315] traj: [30]	 x:-3.489	 y:-1.173	 phi:138.833
+INFO [HybridAStarPlan][2315] traj: [31]	 x:-3.269	 y:-1.378	 phi:135.114
+INFO [HybridAStarPlan][2315] traj: [32]	 x:-3.064	 y:-1.597	 phi:131.395
+INFO [HybridAStarPlan][2315] traj: [33]	 x:-2.873	 y:-1.828	 phi:127.676
+INFO [HybridAStarPlan][2315] traj: [34]	 x:-2.697	 y:-2.071	 phi:123.956
+INFO [HybridAStarPlan][2315] traj: [35]	 x:-2.538	 y:-2.325	 phi:120.237
+INFO [HybridAStarPlan][2315] traj: [36]	 x:-2.395	 y:-2.589	 phi:116.518
+INFO [HybridAStarPlan][2315] traj: [37]	 x:-2.270	 y:-2.862	 phi:112.799
+INFO [HybridAStarPlan][2315] traj: [38]	 x:-2.163	 y:-3.142	 phi:109.080
+INFO [HybridAStarPlan][2315] traj: [39]	 x:-2.112	 y:-3.298	 phi:107.040
+

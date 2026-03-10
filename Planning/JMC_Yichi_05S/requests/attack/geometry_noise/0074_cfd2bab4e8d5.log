@@ -1,0 +1,44 @@
+ID: cfd2bab4e8d5
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: -3982, 3779
+LinePtCoord: -3923, 3717
+LinePtNum: 5
+LinePtCoord: 695, 4850
+LinePtCoord: 1206, 3638
+LinePtCoord: 967, 2202
+LinePtCoord: 1645, 2154
+LinePtCoord: 2378, 2095
+LinePtNum: 7
+LinePtCoord: 1037, 1523
+LinePtCoord: 2541, 1540
+LinePtCoord: 4888, 3436
+LinePtCoord: 3487, 1305
+LinePtCoord: 3450, -7126
+LinePtCoord: 3662, -8014
+LinePtCoord: 3590, -8675
+LinePtNum: 3
+LinePtCoord: 2608, -6708
+LinePtCoord: 2857, -9465
+LinePtCoord: 2914, -9982
+LinePtNum: 3
+LinePtCoord: -4620, -1845
+LinePtCoord: -4565, -1404
+LinePtCoord: -4504, -1186
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.825
+oblslot: -0.100, 0.825
+oblslot: 2.693, 0.825
+oblslot: 2.702, -7.237
+oblslot: 0.200, -7.237
+oblslot: 0.200, -9.237
+slot_type: 1
+target_dir: 0
+start: 1.2460, -4.8450, 1.5708
+end: -1.6242, -3.7802, 1.5738
+ID_FINISHED

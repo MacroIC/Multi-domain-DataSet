@@ -1,0 +1,73 @@
+ID: 60bf64e63056
+LinePtNum: 3
+LinePtCoord: -4781, -1761
+LinePtCoord: -4755, -1543
+LinePtCoord: -4803, -1103
+LinePtNum: 3
+LinePtCoord: 686, 6000
+LinePtCoord: 1080, 1974
+LinePtCoord: 1601, 2058
+LinePtNum: 5
+LinePtCoord: 928, 1582
+LinePtCoord: 1966, 1232
+LinePtCoord: 3813, 4836
+LinePtCoord: 3210, -3505
+LinePtCoord: 3279, -3700
+LinePtNum: 3
+LinePtCoord: 3170, -5454
+LinePtCoord: 3093, -5737
+LinePtCoord: 3036, -5757
+LinePtNum: 2
+LinePtCoord: 3129, -6296
+LinePtCoord: 3129, -6296
+LinePtNum: 2
+LinePtCoord: 3169, -6572
+LinePtCoord: 3169, -6572
+LinePtNum: 2
+LinePtCoord: 3051, -6771
+LinePtCoord: 3051, -6771
+LinePtNum: 2
+LinePtCoord: 2951, -6995
+LinePtCoord: 2951, -6995
+LinePtNum: 2
+LinePtCoord: 2942, -7493
+LinePtCoord: 2942, -7493
+LinePtNum: 2
+LinePtCoord: 2863, -8038
+LinePtCoord: 2863, -8038
+LinePtNum: 2
+LinePtCoord: 2876, -9363
+LinePtCoord: 2876, -9363
+LinePtNum: 2
+LinePtCoord: 2828, -10000
+LinePtCoord: 2828, -10000
+LinePtNum: 4
+LinePtCoord: 1753, -10000
+LinePtCoord: 1551, -7858
+LinePtCoord: 578, -7481
+LinePtCoord: -10, -7858
+LinePtNum: 3
+LinePtCoord: -5286, -10000
+LinePtCoord: -4549, -7912
+LinePtCoord: -5661, -8529
+LinePtNum: 3
+LinePtCoord: -5751, -1855
+LinePtCoord: -4982, -1940
+LinePtCoord: -4981, -1687
+plan_cnt: 1
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.400
+oblslot: -0.100, 0.400
+oblslot: 2.651, 0.400
+oblslot: 2.560, -7.244
+oblslot: 0.200, -7.244
+oblslot: 0.200, -9.244
+slot_type: 1
+target_dir: 3
+start: 1.2670, -5.0394, 1.5558
+end: 1.2099, -4.6263, 2.0851
+ID_FINISHED

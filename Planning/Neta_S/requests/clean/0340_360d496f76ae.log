@@ -1,0 +1,44 @@
+ID: 360d496f76ae
+LinePtNum: 7
+LinePtCoord: 433, 6000
+LinePtCoord: -159, 1103
+LinePtCoord: 298, 460
+LinePtCoord: 2884, 791
+LinePtCoord: 2788, 431
+LinePtCoord: 5034, 383
+LinePtCoord: 5095, 300
+LinePtNum: 3
+LinePtCoord: 5325, -7368
+LinePtCoord: 3001, -6812
+LinePtCoord: 2721, -7106
+LinePtNum: 6
+LinePtCoord: 4247, -5563
+LinePtCoord: 2858, -5773
+LinePtCoord: 3006, -6386
+LinePtCoord: 2024, -6448
+LinePtCoord: 1946, -6963
+LinePtCoord: 2400, -7619
+LinePtNum: 6
+LinePtCoord: -4227, -9388
+LinePtCoord: -4934, -6962
+LinePtCoord: -5569, -7812
+LinePtCoord: -6258, -6935
+LinePtCoord: -7360, -7214
+LinePtCoord: -7773, -7156
+plan_cnt: 0
+xybounds: -9, 5, -6, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.456, 1.274
+oblslot: -0.456, 0.274
+oblslot: 4.991, 0.274
+oblslot: 4.990, -4.727
+oblslot: 1.500, -4.728
+oblslot: 1.500, -5.228
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.2130, 3.1416
+end: -1.8485, -3.4573, 1.8626
+ID_FINISHED

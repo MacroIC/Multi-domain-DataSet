@@ -1,0 +1,18 @@
+ID: d09db3a93001
+plan_cnt: 0
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.037, 0.909
+oblslot: -0.037, -0.091
+oblslot: 5.351, -0.091
+oblslot: 5.351, -2.662
+oblslot: 0.162, -2.662
+oblslot: 0.162, -3.162
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.3765, 3.1416
+end: -2.5264, -1.7238, 1.5363
+ID_FINISHED

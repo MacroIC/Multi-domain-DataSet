@@ -1,0 +1,41 @@
+ID: ac2364129c01
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: -6437, 3237
+LinePtCoord: -6177, 2637
+LinePtCoord: -6278, 2388
+LinePtNum: 4
+LinePtCoord: -7795, -7688
+LinePtCoord: -7147, -8384
+LinePtCoord: -6235, -5878
+LinePtCoord: -5769, -8530
+LinePtNum: 2
+LinePtCoord: -5762, -3990
+LinePtCoord: -5762, -3990
+LinePtNum: 2
+LinePtCoord: -4240, -8187
+LinePtCoord: -4240, -8187
+LinePtNum: 2
+LinePtCoord: 3239, 3138
+LinePtCoord: 3239, 3138
+LinePtNum: 3
+LinePtCoord: 66, 2545
+LinePtCoord: 299, 3069
+LinePtCoord: 177, 3373
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.401, 3.287
+oblslot: 1.401, 2.287
+oblslot: 4.960, 2.287
+oblslot: 4.960, -4.519
+oblslot: 0.200, -4.519
+oblslot: 0.200, -5.019
+slot_type: 3
+target_dir: 1
+start: 3.1969, -1.1039, 3.1454
+end: -3.4127, 2.6772, 2.1938
+ID_FINISHED

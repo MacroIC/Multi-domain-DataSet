@@ -1,0 +1,40 @@
+ID: fb422111cee5
+LinePtNum: 2
+LinePtCoord: -4957, 4609
+LinePtCoord: -4444, 4850
+LinePtNum: 3
+LinePtCoord: 2763, 6000
+LinePtCoord: 3601, 4067
+LinePtCoord: 5915, 4352
+LinePtNum: 5
+LinePtCoord: 2812, 5436
+LinePtCoord: 3493, -364
+LinePtCoord: 3346, -4238
+LinePtCoord: 3499, -8074
+LinePtCoord: 4070, -10000
+LinePtNum: 3
+LinePtCoord: 3095, -7854
+LinePtCoord: 3549, -8992
+LinePtCoord: 3093, -9483
+LinePtNum: 4
+LinePtCoord: -5781, -2788
+LinePtCoord: -4581, -1424
+LinePtCoord: -4447, -1241
+LinePtCoord: -4639, -1190
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 3.601
+oblslot: -0.100, 1.601
+oblslot: 2.737, 1.601
+oblslot: 2.737, -8.937
+oblslot: 0.200, -8.937
+oblslot: 0.200, -10.937
+slot_type: 1
+target_dir: 0
+start: 1.2680, -5.0940, 1.5708
+end: -2.0084, -2.7051, 1.5126
+ID_FINISHED

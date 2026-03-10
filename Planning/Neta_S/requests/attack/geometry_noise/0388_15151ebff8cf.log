@@ -1,0 +1,34 @@
+ID: 15151ebff8cf
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: 4855, 5964
+LinePtCoord: 5010, 5494
+LinePtCoord: 5448, 5280
+LinePtNum: 3
+LinePtCoord: 3980, -2656
+LinePtCoord: 3417, -3065
+LinePtCoord: 3171, -3138
+LinePtNum: 3
+LinePtCoord: 968, -2741
+LinePtCoord: 896, -2830
+LinePtCoord: 770, -2929
+LinePtNum: 2
+LinePtCoord: 652, -3304
+LinePtCoord: 653, -3338
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 2.740, 2.606
+oblslot: 2.740, 1.606
+oblslot: 4.960, 1.606
+oblslot: 4.960, -2.761
+oblslot: 0.239, -2.761
+oblslot: 0.239, -3.261
+slot_type: 2
+target_dir: 0
+start: 3.4977, -1.0735, 3.1343
+end: 1.4389, -1.0838, 3.1468
+ID_FINISHED

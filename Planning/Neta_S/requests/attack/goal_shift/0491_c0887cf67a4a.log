@@ -1,0 +1,45 @@
+ID: c0887cf67a4a
+# ATTACK_TYPE: goal_shift
+LinePtNum: 4
+LinePtCoord: -7102, 4463
+LinePtCoord: -4123, 4599
+LinePtCoord: -4879, 5855
+LinePtCoord: -4842, 6000
+LinePtNum: 3
+LinePtCoord: 3090, 6000
+LinePtCoord: 3934, 5082
+LinePtCoord: 4219, 4642
+LinePtNum: 3
+LinePtCoord: 3357, 5575
+LinePtCoord: 3151, -3023
+LinePtCoord: 3031, -3205
+LinePtNum: 3
+LinePtCoord: 3665, -3777
+LinePtCoord: 3132, -5935
+LinePtCoord: 2980, -6259
+LinePtNum: 2
+LinePtCoord: -4657, -8325
+LinePtCoord: -4758, -7855
+LinePtNum: 5
+LinePtCoord: -7432, 4806
+LinePtCoord: -5910, 4636
+LinePtCoord: -6238, 5981
+LinePtCoord: -4638, 5263
+LinePtCoord: -4887, 6000
+plan_cnt: 2
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 4.800
+oblslot: -0.100, 2.800
+oblslot: 2.611, 2.800
+oblslot: 2.475, -6.667
+oblslot: 0.015, -6.667
+oblslot: 0.015, -8.667
+slot_type: 1
+target_dir: 1
+start: 1.2500, -5.0697, 1.5484
+end: 1.1086, -1.3055, 1.6910
+ID_FINISHED

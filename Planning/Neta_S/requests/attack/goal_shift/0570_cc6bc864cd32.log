@@ -1,0 +1,30 @@
+ID: cc6bc864cd32
+# ATTACK_TYPE: goal_shift
+LinePtNum: 3
+LinePtCoord: -1309, 1145
+LinePtCoord: -1295, 975
+LinePtCoord: -1205, 818
+LinePtNum: 2
+LinePtCoord: -2781, -10000
+LinePtCoord: -3453, -9432
+LinePtNum: 3
+LinePtCoord: -7047, -2525
+LinePtCoord: -7171, -1593
+LinePtCoord: -7320, -1616
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.532, 1.454
+oblslot: -1.532, 0.454
+oblslot: 4.960, 0.454
+oblslot: 4.960, -3.493
+oblslot: 1.502, -3.493
+oblslot: 1.502, -3.993
+slot_type: 2
+target_dir: 1
+start: 3.1969, -1.1770, 3.1434
+end: -2.3139, -0.2088, 2.8015
+ID_FINISHED

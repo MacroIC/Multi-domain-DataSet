@@ -1,0 +1,40 @@
+ID: 5a2a09a718ac
+LinePtNum: 3
+LinePtCoord: -7010, -2164
+LinePtCoord: -7209, -1900
+LinePtCoord: -7864, -1904
+LinePtNum: 3
+LinePtCoord: -1581, 1072
+LinePtCoord: -1231, 545
+LinePtCoord: -377, 580
+LinePtNum: 2
+LinePtCoord: 3230, -7578
+LinePtCoord: 3230, -7578
+LinePtNum: 4
+LinePtCoord: 5300, -8034
+LinePtCoord: 4062, -7356
+LinePtCoord: 4756, -8649
+LinePtCoord: 4836, -9554
+LinePtNum: 2
+LinePtCoord: -2982, -9859
+LinePtCoord: -3241, -8995
+LinePtNum: 2
+LinePtCoord: -7718, -2578
+LinePtCoord: -7718, -2578
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.288, 1.374
+oblslot: -1.288, 0.374
+oblslot: 4.960, 0.374
+oblslot: 4.960, -3.348
+oblslot: 1.509, -3.348
+oblslot: 1.509, -3.848
+slot_type: 2
+target_dir: 0
+start: 3.6962, -1.0879, 3.1496
+end: -0.4907, -1.1401, 2.9773
+ID_FINISHED

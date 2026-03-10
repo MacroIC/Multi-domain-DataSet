@@ -1,0 +1,37 @@
+ID: 44821b8680b1
+# ATTACK_TYPE: slot_flip
+LinePtNum: 4
+LinePtCoord: -2919, 3752
+LinePtCoord: -2786, 3145
+LinePtCoord: 734, 820
+LinePtCoord: 1216, 299
+LinePtNum: 2
+LinePtCoord: 79, 300
+LinePtCoord: 79, 300
+LinePtNum: 3
+LinePtCoord: 1026, 1411
+LinePtCoord: 140, 1116
+LinePtCoord: -557, 699
+LinePtNum: 2
+LinePtCoord: 1714, -3823
+LinePtCoord: 1714, -3823
+LinePtNum: 2
+LinePtCoord: -5249, -6719
+LinePtCoord: -5249, -6719
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.196, 1.206
+oblslot: -1.196, 0.206
+oblslot: 4.960, 0.206
+oblslot: 4.960, -3.508
+oblslot: 0.200, -3.508
+oblslot: 0.200, -4.008
+slot_type: 3
+target_dir: 1
+start: 3.1968, -1.2345, 3.1467
+end: -4.9088, 1.9489, 2.0653
+ID_FINISHED

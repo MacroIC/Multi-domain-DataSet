@@ -1,0 +1,72 @@
+ID: cdca7749f499
+# ATTACK_TYPE: slot_flip
+LinePtNum: 4
+LinePtCoord: -3610, -8742
+LinePtCoord: -5267, -9777
+LinePtCoord: -4207, -6422
+LinePtCoord: -5915, -7136
+LinePtNum: 2
+LinePtCoord: -6687, -3183
+LinePtCoord: -6687, -3183
+LinePtNum: 4
+LinePtCoord: -2209, 2081
+LinePtCoord: -2288, 2462
+LinePtCoord: -406, 1653
+LinePtCoord: 25, 1800
+LinePtNum: 1
+LinePtCoord: 1710, 1133
+LinePtNum: 2
+LinePtCoord: 2371, 2432
+LinePtCoord: 2171, 1360
+LinePtNum: 2
+LinePtCoord: 5922, -5945
+LinePtCoord: 5183, -5478
+LinePtNum: 2
+LinePtCoord: 4534, -5777
+LinePtCoord: 45346, -58777
+LinePtNum: 1
+LinePtCoord: 4382, -6035
+LinePtNum: 1
+LinePtCoord: 4001, -6008
+LinePtNum: 1
+LinePtCoord: 3716, -6062
+LinePtNum: 1
+LinePtCoord: 3338, -5910
+LinePtNum: 1
+LinePtCoord: 3085, -5992
+LinePtNum: 2
+LinePtCoord: 2715, -5591
+LinePtCoord: 2715, -5591
+LinePtNum: 1
+LinePtCoord: 2436, -5510
+LinePtNum: 1
+LinePtCoord: 2258, -5796
+LinePtNum: 1
+LinePtCoord: 1984, -6031
+LinePtNum: 1
+LinePtCoord: 1749, -7388
+LinePtNum: 1
+LinePtCoord: 1279, -14
+LinePtNum: 5
+LinePtCoord: -3994, -10000
+LinePtCoord: -5541, -8821
+LinePtCoord: -4672, -6843
+LinePtCoord: -5687, -7017
+LinePtCoord: -6351, -7347
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.872, 1.309
+oblslot: -0.872, 0.309
+oblslot: 4.960, 0.309
+oblslot: 4.960, -3.982
+oblslot: 1.500, -3.983
+oblslot: 1.500, -4.483
+slot_type: 3
+target_dir: 0
+start: 3.1970, -1.2400, 3.1416
+end: 3.7483, -0.7728, 3.1647
+ID_FINISHED

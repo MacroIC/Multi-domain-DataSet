@@ -1,0 +1,42 @@
+ID: 7bb62db196ab
+LinePtNum: 2
+LinePtCoord: 5669, -7783
+LinePtCoord: 5669, -7783
+LinePtNum: 3
+LinePtCoord: 5113, -5696
+LinePtCoord: 4994, -5212
+LinePtCoord: 4947, -5127
+LinePtNum: 2
+LinePtCoord: 5305, -4232
+LinePtCoord: 5368, -4223
+LinePtNum: 2
+LinePtCoord: 5583, -8706
+LinePtCoord: 5583, -8706
+LinePtNum: 2
+LinePtCoord: 5912, -4745
+LinePtCoord: 5912, -4745
+LinePtNum: 2
+LinePtCoord: 4312, 2755
+LinePtCoord: 4388, 3209
+LinePtNum: 4
+LinePtCoord: 3049, 2767
+LinePtCoord: 3540, 3372
+LinePtCoord: 3629, 5520
+LinePtCoord: 3651, 6000
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.201, 3.491
+oblslot: 0.201, 2.491
+oblslot: 4.960, 2.491
+oblslot: 4.960, -4.486
+oblslot: 0.200, -4.486
+oblslot: 0.200, -4.986
+slot_type: 2
+target_dir: 0
+start: 3.4975, -1.0076, 3.1387
+end: 1.0233, -1.0785, 3.1531
+ID_FINISHED

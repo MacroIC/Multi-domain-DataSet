@@ -1,0 +1,19 @@
+ID: 7f5d5b705d32
+# ATTACK_TYPE: geometry_noise
+plan_cnt: 12
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.252, 1.163
+oblslot: 0.252, 0.163
+oblslot: 5.345, 0.163
+oblslot: 5.355, -2.464
+oblslot: 0.563, -2.464
+oblslot: 0.563, -2.964
+slot_type: 2
+target_dir: 1
+start: 3.1958, -1.1426, 3.1456
+end: -2.2894, -1.1236, 3.1491
+ID_FINISHED

@@ -1,0 +1,45 @@
+Received data from command line argument, length: 681
+<<<<<<<<<<<<<<<<  ID: 59c46beb6550  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 2
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: -1.175, 1.676
+INFO [ParseReceivedData][1875] oblslot[6]: -1.175, 0.676
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 0.676
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -3.371
+INFO [ParseReceivedData][1875] oblslot[6]: 0.200, -3.371
+INFO [ParseReceivedData][1875] oblslot[6]: 0.200, -3.871
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 1
+INFO [ParseReceivedData][1992] start: 3.197 -1.131 3.140
+INFO [ParseReceivedData][1993] end: -3.059 -0.560 2.760
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.059  -0.560  158.154
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.778  -0.666  160.342
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.494  -0.762  162.531
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.206  -0.846  164.719
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.915  -0.920  166.908
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.622  -0.982  169.096
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.326  -1.033  171.285
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.029  -1.073  173.473
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -0.730  -1.102  175.662
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -0.430  -1.119  177.850
+INFO [APAPathPlanningConvertArcSegmentToPoints][1323] -0.151  -1.124  179.886
+INFO [OneCircleTrajCal][1440] num: 12
+INFO [OneCircleToEndPosLineCalTraj][1534] CE cal time: 0.387ms
+INFO [HybridAStarPlan][2225] 0_result: 1   (12)
+INFO [HybridAStarPlan][2298] path send success 12
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.131	 phi:179.886
+INFO [HybridAStarPlan][2315] traj: [1]	 x:-0.151	 y:-1.124	 phi:179.886
+INFO [HybridAStarPlan][2315] traj: [2]	 x:-0.430	 y:-1.119	 phi:177.850
+INFO [HybridAStarPlan][2315] traj: [3]	 x:-0.730	 y:-1.102	 phi:175.662
+INFO [HybridAStarPlan][2315] traj: [4]	 x:-1.029	 y:-1.073	 phi:173.473
+INFO [HybridAStarPlan][2315] traj: [5]	 x:-1.326	 y:-1.033	 phi:171.285
+INFO [HybridAStarPlan][2315] traj: [6]	 x:-1.622	 y:-0.982	 phi:169.096
+INFO [HybridAStarPlan][2315] traj: [7]	 x:-1.915	 y:-0.920	 phi:166.908
+INFO [HybridAStarPlan][2315] traj: [8]	 x:-2.206	 y:-0.846	 phi:164.719
+INFO [HybridAStarPlan][2315] traj: [9]	 x:-2.494	 y:-0.762	 phi:162.531
+INFO [HybridAStarPlan][2315] traj: [10]	 x:-2.778	 y:-0.666	 phi:160.342
+INFO [HybridAStarPlan][2315] traj: [11]	 x:-3.059	 y:-0.560	 phi:158.154
+

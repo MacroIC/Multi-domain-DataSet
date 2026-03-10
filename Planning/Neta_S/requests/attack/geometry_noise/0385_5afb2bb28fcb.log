@@ -1,0 +1,51 @@
+ID: 5afb2bb28fcb
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 5
+LinePtCoord: -5520, -4500
+LinePtCoord: -5990, -4010
+LinePtCoord: -7260, -4304
+LinePtCoord: -7701, -3159
+LinePtCoord: -7624, -2985
+LinePtNum: 2
+LinePtCoord: -7599, 3354
+LinePtCoord: -7573, 3310
+LinePtNum: 3
+LinePtCoord: -7929, 4573
+LinePtCoord: -7222, 5128
+LinePtCoord: -7908, 5974
+LinePtNum: 3
+LinePtCoord: 4953, 6012
+LinePtCoord: 4861, 5785
+LinePtCoord: 5629, 5986
+LinePtNum: 3
+LinePtCoord: 5286, 6004
+LinePtCoord: 5150, 5115
+LinePtCoord: 5931, 4939
+LinePtNum: 2
+LinePtCoord: 5071, -7109
+LinePtCoord: 5462, -9959
+LinePtNum: 4
+LinePtCoord: 5964, -7309
+LinePtCoord: 2262, -5838
+LinePtCoord: 2695, -7491
+LinePtCoord: 2728, -7691
+LinePtNum: 2
+LinePtCoord: -7231, -5485
+LinePtCoord: -6891, -5025
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.007, 2.717
+oblslot: 0.007, 1.717
+oblslot: 5.057, 1.690
+oblslot: 5.044, -3.710
+oblslot: 1.495, -3.683
+oblslot: 1.495, -4.183
+slot_type: 2
+target_dir: 0
+start: 3.6980, -1.0026, 3.1363
+end: 0.8297, -1.0928, 3.1403
+ID_FINISHED

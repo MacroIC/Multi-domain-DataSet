@@ -1,0 +1,44 @@
+ID: eca2d53da9aa
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: -7193, -7765
+LinePtCoord: -7241, -7149
+LinePtNum: 4
+LinePtCoord: 3427, 6026
+LinePtCoord: 3354, 3742
+LinePtCoord: 4201, 3770
+LinePtCoord: 3772, 2865
+LinePtNum: 3
+LinePtCoord: 4164, -2921
+LinePtCoord: 1834, -3000
+LinePtCoord: 1349, -2670
+LinePtNum: 3
+LinePtCoord: 1017, -3631
+LinePtCoord: 1174, -4265
+LinePtCoord: 1692, -4726
+LinePtNum: 2
+LinePtCoord: -342, -7745
+LinePtCoord: -281, -8505
+LinePtNum: 5
+LinePtCoord: -6261, -8703
+LinePtCoord: -6362, -7496
+LinePtCoord: -7013, -7795
+LinePtCoord: -7028, -7173
+LinePtCoord: -7553, -7158
+plan_cnt: 5
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 2.942, 1.999
+oblslot: 2.942, 0.999
+oblslot: 4.960, 0.999
+oblslot: 4.960, -2.506
+oblslot: 0.771, -2.506
+oblslot: 0.771, -3.006
+slot_type: 2
+target_dir: 0
+start: 3.4952, -1.1224, 3.1375
+end: -0.4932, -1.0866, 3.1511
+ID_FINISHED

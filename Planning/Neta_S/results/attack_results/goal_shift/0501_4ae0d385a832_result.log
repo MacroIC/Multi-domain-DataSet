@@ -1,0 +1,45 @@
+Received data from command line argument, length: 1081
+<<<<<<<<<<<<<<<<  ID: 4ae0d385a832  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 7
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.175, 1.619
+INFO [ParseReceivedData][1875] oblslot[6]: 0.175, 0.619
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 0.619
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -2.592
+INFO [ParseReceivedData][1875] oblslot[6]: 0.240, -2.592
+INFO [ParseReceivedData][1875] oblslot[6]: 0.240, -3.092
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.490 -1.029 3.113
+INFO [ParseReceivedData][1993] end: 0.002 -0.630 3.185
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 1.144ms
+INFO [HybridAStarPlan][2231] 1_result: 1   (24)
+INFO [HybridAStarPlan][2298] path send success 25
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.490	 y:-1.029	 phi:178.350
+INFO [HybridAStarPlan][2315] traj: [1]	 x:3.190	 y:-1.019	 phi:177.635
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.891	 y:-1.004	 phi:176.919
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.591	 y:-0.986	 phi:176.204
+INFO [HybridAStarPlan][2315] traj: [4]	 x:2.292	 y:-0.965	 phi:175.488
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.993	 y:-0.939	 phi:174.773
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.694	 y:-0.910	 phi:174.057
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.396	 y:-0.878	 phi:173.977
+INFO [HybridAStarPlan][2315] traj: [8]	 x:1.098	 y:-0.847	 phi:173.977
+INFO [HybridAStarPlan][2315] traj: [9]	 x:0.799	 y:-0.816	 phi:173.977
+INFO [HybridAStarPlan][2315] traj: [10]	 x:0.501	 y:-0.784	 phi:173.977
+INFO [HybridAStarPlan][2315] traj: [11]	 x:0.203	 y:-0.753	 phi:174.465
+INFO [HybridAStarPlan][2315] traj: [12]	 x:-0.096	 y:-0.726	 phi:175.180
+INFO [HybridAStarPlan][2315] traj: [13]	 x:-0.395	 y:-0.703	 phi:175.896
+INFO [HybridAStarPlan][2315] traj: [14]	 x:-0.695	 y:-0.683	 phi:176.612
+INFO [HybridAStarPlan][2315] traj: [15]	 x:-0.994	 y:-0.668	 phi:177.327
+INFO [HybridAStarPlan][2315] traj: [16]	 x:-1.294	 y:-0.655	 phi:178.043
+INFO [HybridAStarPlan][2315] traj: [17]	 x:-1.593	 y:-0.647	 phi:178.757
+INFO [HybridAStarPlan][2315] traj: [18]	 x:-1.293	 y:-0.652	 phi:179.455
+INFO [HybridAStarPlan][2315] traj: [19]	 x:-0.993	 y:-0.653	 phi:-179.847
+INFO [HybridAStarPlan][2315] traj: [20]	 x:-0.693	 y:-0.650	 phi:-179.149
+INFO [HybridAStarPlan][2315] traj: [21]	 x:-0.393	 y:-0.644	 phi:-178.451
+INFO [HybridAStarPlan][2315] traj: [22]	 x:-0.094	 y:-0.634	 phi:-177.753
+INFO [HybridAStarPlan][2315] traj: [23]	 x:0.002	 y:-0.630	 phi:-177.530
+

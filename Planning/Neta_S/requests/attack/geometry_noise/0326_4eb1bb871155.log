@@ -1,0 +1,32 @@
+ID: 4eb1bb871155
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 5
+LinePtCoord: 4950, 6006
+LinePtCoord: 5138, 4913
+LinePtCoord: 5981, 4945
+LinePtCoord: 5608, 4155
+LinePtCoord: 4239, 2892
+LinePtNum: 2
+LinePtCoord: 5707, -6824
+LinePtCoord: 5935, -7223
+LinePtNum: 3
+LinePtCoord: 4976, -7749
+LinePtCoord: 4744, -8714
+LinePtCoord: 4889, -10039
+plan_cnt: 0
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.200, 3.300
+oblslot: 0.200, 2.300
+oblslot: 5.269, 2.300
+oblslot: 5.269, -4.727
+oblslot: 0.200, -4.727
+oblslot: 0.200, -5.227
+slot_type: 2
+target_dir: 0
+start: 2.9970, -1.1120, 3.1416
+end: -1.9116, -1.8821, 1.5490
+ID_FINISHED

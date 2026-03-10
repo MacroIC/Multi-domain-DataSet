@@ -1,0 +1,32 @@
+Received data from command line argument, length: 651
+<<<<<<<<<<<<<<<<  ID: e127f7f2325d  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 2
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.022, 3.614
+INFO [ParseReceivedData][1875] oblslot[6]: 0.022, 1.614
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 1.530
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -6.543
+INFO [ParseReceivedData][1875] oblslot[6]: 0.347, -6.543
+INFO [ParseReceivedData][1875] oblslot[6]: 0.347, -7.043
+INFO [ParseReceivedData][1990] slot_type: 3
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.694 -1.382 3.123
+INFO [ParseReceivedData][1993] end: 2.688 -1.246 3.194
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 1.718ms
+INFO [HybridAStarPlan][2231] 1_result: 1   (11)
+INFO [HybridAStarPlan][2298] path send success 12
+INFO [HybridAStarPlan][2315] traj: [0]	 x:1.694	 y:-1.345	 phi:178.935
+INFO [HybridAStarPlan][2315] traj: [1]	 x:1.994	 y:-1.345	 phi:-178.798
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.294	 y:-1.332	 phi:-175.943
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.593	 y:-1.303	 phi:-173.089
+INFO [HybridAStarPlan][2315] traj: [4]	 x:2.889	 y:-1.259	 phi:-170.234
+INFO [HybridAStarPlan][2315] traj: [5]	 x:3.185	 y:-1.208	 phi:-170.081
+INFO [HybridAStarPlan][2315] traj: [6]	 x:3.480	 y:-1.156	 phi:-170.081
+INFO [HybridAStarPlan][2315] traj: [7]	 x:3.481	 y:-1.156	 phi:-170.081
+INFO [HybridAStarPlan][2315] traj: [8]	 x:3.184	 y:-1.201	 phi:-172.677
+INFO [HybridAStarPlan][2315] traj: [9]	 x:2.886	 y:-1.232	 phi:-175.272
+INFO [HybridAStarPlan][2315] traj: [10]	 x:2.688	 y:-1.246	 phi:-176.992
+

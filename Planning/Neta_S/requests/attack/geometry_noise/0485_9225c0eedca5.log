@@ -1,0 +1,107 @@
+ID: 9225c0eedca5
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: -4864, 5153
+LinePtCoord: -4814, 5152
+LinePtNum: 3
+LinePtCoord: 3221, 5675
+LinePtCoord: 3847, 3944
+LinePtCoord: 4753, 3457
+LinePtNum: 4
+LinePtCoord: 2739, 3526
+LinePtCoord: 3321, 3250
+LinePtCoord: 3163, -1366
+LinePtCoord: 3026, -1616
+LinePtNum: 2
+LinePtCoord: 3503, -2173
+LinePtCoord: 3567, -2173
+LinePtNum: 2
+LinePtCoord: 3411, -2444
+LinePtCoord: 3388, -2496
+LinePtNum: 2
+LinePtCoord: 3225, -2732
+LinePtCoord: 3265, -2782
+LinePtNum: 2
+LinePtCoord: 3118, -3069
+LinePtCoord: 3140, -3040
+LinePtNum: 2
+LinePtCoord: 3363, -3352
+LinePtCoord: 3360, -3313
+LinePtNum: 2
+LinePtCoord: 3255, -3667
+LinePtCoord: 3304, -3589
+LinePtNum: 2
+LinePtCoord: 3388, -3930
+LinePtCoord: 3394, -3964
+LinePtNum: 2
+LinePtCoord: 3300, -4251
+LinePtCoord: 3265, -4229
+LinePtNum: 2
+LinePtCoord: 3647, -4769
+LinePtCoord: 3657, -4741
+LinePtNum: 2
+LinePtCoord: 3926, -5255
+LinePtCoord: 3901, -5218
+LinePtNum: 2
+LinePtCoord: 4171, -5783
+LinePtCoord: 4123, -5865
+LinePtNum: 2
+LinePtCoord: 3888, -6085
+LinePtCoord: 3925, -6131
+LinePtNum: 2
+LinePtCoord: 3702, -6402
+LinePtCoord: 3695, -6365
+LinePtNum: 2
+LinePtCoord: 3531, -6743
+LinePtCoord: 3509, -6746
+LinePtNum: 2
+LinePtCoord: 3856, -7619
+LinePtCoord: 3880, -7697
+LinePtNum: 2
+LinePtCoord: 3730, -8136
+LinePtCoord: 3741, -8081
+LinePtNum: 2
+LinePtCoord: 3243, -8138
+LinePtCoord: 3251, -8131
+LinePtNum: 2
+LinePtCoord: 3451, -9216
+LinePtCoord: 3521, -9163
+LinePtNum: 2
+LinePtCoord: 3400, -9866
+LinePtCoord: 3408, -9873
+LinePtNum: 2
+LinePtCoord: 3498, -9950
+LinePtCoord: 3450, -9988
+LinePtNum: 3
+LinePtCoord: 2895, -8249
+LinePtCoord: 3253, -9037
+LinePtCoord: 3399, -10000
+LinePtNum: 2
+LinePtCoord: -5423, -8722
+LinePtCoord: -7546, -9591
+LinePtNum: 8
+LinePtCoord: -6513, -5593
+LinePtCoord: -5737, -4439
+LinePtCoord: -6134, -3256
+LinePtCoord: -6112, -2525
+LinePtCoord: -5790, -1580
+LinePtCoord: -4679, -1518
+LinePtCoord: -4563, -1231
+LinePtCoord: -4627, -1156
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 3.200
+oblslot: -0.100, 1.200
+oblslot: 2.716, 1.200
+oblslot: 2.716, -8.831
+oblslot: 0.200, -8.831
+oblslot: 0.200, -10.831
+slot_type: 1
+target_dir: 0
+start: 1.2570, -5.0420, 1.5708
+end: -2.0215, -4.5745, 1.5732
+ID_FINISHED

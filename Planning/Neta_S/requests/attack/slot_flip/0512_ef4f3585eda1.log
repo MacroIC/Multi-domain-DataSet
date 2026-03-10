@@ -1,0 +1,44 @@
+ID: ef4f3585eda1
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: -4151, 6000
+LinePtCoord: -3662, 5855
+LinePtCoord: -3363, 6000
+LinePtNum: 3
+LinePtCoord: -741, 500
+LinePtCoord: -1606, 898
+LinePtCoord: -1156, 300
+LinePtNum: 3
+LinePtCoord: -1510, 1250
+LinePtCoord: -1808, 755
+LinePtCoord: -1072, 300
+LinePtNum: 2
+LinePtCoord: 4295, -2955
+LinePtCoord: 4295, -2955
+LinePtNum: 2
+LinePtCoord: 2089, -3611
+LinePtCoord: 2089, -3611
+LinePtNum: 2
+LinePtCoord: -7943, -3029
+LinePtCoord: -7943, -3029
+LinePtNum: 3
+LinePtCoord: -6981, -2796
+LinePtCoord: -7357, -1574
+LinePtCoord: -7582, -1362
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.555, 1.045
+oblslot: -0.555, 0.045
+oblslot: 4.960, 0.045
+oblslot: 4.960, -2.845
+oblslot: 0.199, -2.845
+oblslot: 0.199, -3.345
+slot_type: 3
+target_dir: 1
+start: 3.1957, -1.4274, 3.1330
+end: -5.3765, 2.1577, 2.0064
+ID_FINISHED

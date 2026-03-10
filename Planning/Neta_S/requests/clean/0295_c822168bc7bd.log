@@ -1,0 +1,46 @@
+ID: c822168bc7bd
+LinePtNum: 2
+LinePtCoord: -7644, -2494
+LinePtCoord: -7977, -2872
+LinePtNum: 5
+LinePtCoord: -5426, -10000
+LinePtCoord: -2322, -5319
+LinePtCoord: -2252, -9554
+LinePtCoord: -415, -8608
+LinePtCoord: 211, -9727
+LinePtNum: 3
+LinePtCoord: 5534, -10000
+LinePtCoord: 5499, -9326
+LinePtCoord: 5535, -8555
+LinePtNum: 3
+LinePtCoord: 5051, -8135
+LinePtCoord: 5120, -7348
+LinePtCoord: 5580, -6728
+LinePtNum: 5
+LinePtCoord: 1497, 987
+LinePtCoord: 1059, 1173
+LinePtCoord: 4544, 4762
+LinePtCoord: 4290, 5760
+LinePtCoord: 4367, 6000
+LinePtNum: 4
+LinePtCoord: -4059, 4823
+LinePtCoord: -3998, 4061
+LinePtCoord: -4403, 4199
+LinePtCoord: -5368, 5219
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.994, 1.799
+oblslot: -0.994, 0.799
+oblslot: 4.960, 0.799
+oblslot: 4.960, -5.525
+oblslot: -0.881, -5.525
+oblslot: -0.881, -6.025
+slot_type: 2
+target_dir: 0
+start: 3.6879, -1.3072, 3.0856
+end: 0.8083, -1.1408, 3.1520
+ID_FINISHED

@@ -1,0 +1,46 @@
+ID: 4982df7809ff
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: 738, 6000
+LinePtCoord: 872, 5911
+LinePtCoord: 1341, 5695
+LinePtNum: 3
+LinePtCoord: 1231, 2942
+LinePtCoord: 426, 1834
+LinePtCoord: 490, 1554
+LinePtNum: 4
+LinePtCoord: -419, 1563
+LinePtCoord: 185, 610
+LinePtCoord: 2383, 1176
+LinePtCoord: 1930, 366
+LinePtNum: 3
+LinePtCoord: 4075, -5482
+LinePtCoord: 3744, -7314
+LinePtCoord: 3760, -7639
+LinePtNum: 3
+LinePtCoord: 3491, -5738
+LinePtCoord: 1191, -6647
+LinePtCoord: 1820, -7610
+LinePtNum: 5
+LinePtCoord: -5122, -10000
+LinePtCoord: -6368, -7014
+LinePtCoord: -7094, -7122
+LinePtCoord: -7157, -6593
+LinePtCoord: -7798, -7145
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.872, 1.349
+oblslot: -0.872, 0.349
+oblslot: 4.960, 0.349
+oblslot: 4.960, -3.968
+oblslot: 1.477, -3.872
+oblslot: 1.477, -4.372
+slot_type: 3
+target_dir: 1
+start: 3.1972, -1.2077, 3.1219
+end: -2.7383, -1.2391, 3.1434
+ID_FINISHED

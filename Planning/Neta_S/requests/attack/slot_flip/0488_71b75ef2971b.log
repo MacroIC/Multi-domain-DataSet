@@ -1,0 +1,32 @@
+ID: 71b75ef2971b
+# ATTACK_TYPE: slot_flip
+LinePtNum: 5
+LinePtCoord: -3069, 3716
+LinePtCoord: -2353, 2808
+LinePtCoord: -116, 1418
+LinePtCoord: -817, 1006
+LinePtCoord: -365, 373
+LinePtNum: 3
+LinePtCoord: 322, 1552
+LinePtCoord: -297, 1208
+LinePtCoord: -99, 720
+LinePtNum: 2
+LinePtCoord: -5514, -8187
+LinePtCoord: -5514, -8187
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.000, 1.169
+oblslot: -1.000, 0.169
+oblslot: 4.960, 0.169
+oblslot: 4.960, -3.479
+oblslot: 0.201, -3.479
+oblslot: 0.201, -3.979
+slot_type: 3
+target_dir: 1
+start: 3.1967, -1.2902, 3.1305
+end: -5.6354, 1.7003, 2.1308
+ID_FINISHED

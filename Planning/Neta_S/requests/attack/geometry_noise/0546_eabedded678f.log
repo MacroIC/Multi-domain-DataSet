@@ -1,0 +1,41 @@
+ID: eabedded678f
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -2858, 3867
+LinePtCoord: -2296, 3159
+LinePtCoord: -2139, 3373
+LinePtNum: 5
+LinePtCoord: -191, 3385
+LinePtCoord: -499, 1174
+LinePtCoord: -121, 775
+LinePtCoord: 462, 744
+LinePtCoord: 1356, 743
+LinePtNum: 4
+LinePtCoord: 2459, 1498
+LinePtCoord: 2228, 579
+LinePtCoord: 5686, 2027
+LinePtCoord: 5034, 927
+LinePtNum: 3
+LinePtCoord: 1519, -3491
+LinePtCoord: 1285, -3867
+LinePtCoord: 1146, -4312
+LinePtNum: 2
+LinePtCoord: -4104, -6317
+LinePtCoord: -4339, -6191
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.119, 1.703
+oblslot: -1.119, 0.703
+oblslot: 4.960, 0.703
+oblslot: 4.960, -5.536
+oblslot: 0.479, -5.536
+oblslot: 0.479, -6.036
+slot_type: 2
+target_dir: 0
+start: 3.6979, -1.1566, 3.1283
+end: -0.4989, -1.1703, 2.9751
+ID_FINISHED

@@ -1,0 +1,63 @@
+ID: d2b4351f7148
+# ATTACK_TYPE: slot_flip
+LinePtNum: 2
+LinePtCoord: -7883, -2087
+LinePtCoord: -7883, -2087
+LinePtNum: 2
+LinePtCoord: -7977, 2702
+LinePtCoord: -7959, 2784
+LinePtNum: 3
+LinePtCoord: 679, 6000
+LinePtCoord: 708, 5953
+LinePtCoord: 1255, 6000
+LinePtNum: 3
+LinePtCoord: 586, 3316
+LinePtCoord: -163, 774
+LinePtCoord: 8, 691
+LinePtNum: 5
+LinePtCoord: 1660, 1719
+LinePtCoord: 2284, 2516
+LinePtCoord: 1972, 1310
+LinePtCoord: 3144, 930
+LinePtCoord: 3658, 736
+LinePtNum: 6
+LinePtCoord: 5359, -4003
+LinePtCoord: 4234, -4032
+LinePtCoord: 4401, -4963
+LinePtCoord: 2321, -3542
+LinePtCoord: 2079, -4532
+LinePtCoord: 1818, -4953
+LinePtNum: 3
+LinePtCoord: 1715, -4167
+LinePtCoord: 1695, -4605
+LinePtCoord: 2214, -5038
+LinePtNum: 2
+LinePtCoord: 5711, -8053
+LinePtCoord: 5711, -8053
+LinePtNum: 2
+LinePtCoord: 5024, -9793
+LinePtCoord: 5024, -9793
+LinePtNum: 2
+LinePtCoord: 4975, -10000
+LinePtCoord: 4975, -10000
+LinePtNum: 3
+LinePtCoord: -4544, -10000
+LinePtCoord: -4620, -9877
+LinePtCoord: -4769, -10000
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.875, 1.525
+oblslot: -0.875, 0.525
+oblslot: 4.960, 0.525
+oblslot: 4.960, -3.174
+oblslot: -1.706, -3.174
+oblslot: -1.706, -3.674
+slot_type: 3
+target_dir: 0
+start: 3.7054, -0.7280, 3.1251
+end: -0.4934, -1.1881, 3.1338
+ID_FINISHED

@@ -1,0 +1,32 @@
+ID: 71b75ef2971b
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 5
+LinePtCoord: -3027, 3757
+LinePtCoord: -2323, 2770
+LinePtCoord: -108, 1416
+LinePtCoord: -772, 999
+LinePtCoord: -385, 400
+LinePtNum: 3
+LinePtCoord: 332, 1506
+LinePtCoord: -306, 1197
+LinePtCoord: -79, 769
+LinePtNum: 2
+LinePtCoord: -5474, -8180
+LinePtCoord: -5537, -8159
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.000, 1.169
+oblslot: -1.000, 0.169
+oblslot: 4.960, 0.169
+oblslot: 4.960, -3.479
+oblslot: 0.201, -3.479
+oblslot: 0.201, -3.979
+slot_type: 2
+target_dir: 1
+start: 3.1967, -1.2902, 3.1305
+end: -5.6354, 1.7003, 2.1308
+ID_FINISHED

@@ -1,0 +1,33 @@
+ID: df3dd3515c69
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: 4714, 5250
+LinePtCoord: 5075, 4683
+LinePtNum: 2
+LinePtCoord: -806, 748
+LinePtCoord: -1621, 1082
+LinePtNum: 3
+LinePtCoord: -1714, 1121
+LinePtCoord: -1656, 652
+LinePtCoord: -1099, 273
+LinePtNum: 3
+LinePtCoord: -7017, -2315
+LinePtCoord: -7287, -1992
+LinePtCoord: -7434, -1703
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.518, 1.139
+oblslot: -1.518, 0.139
+oblslot: 4.960, 0.139
+oblslot: 4.960, -3.550
+oblslot: 1.502, -3.550
+oblslot: 1.502, -4.050
+slot_type: 2
+target_dir: 1
+start: 3.1971, -1.2995, 3.1434
+end: -4.6964, 1.7985, 2.0712
+ID_FINISHED

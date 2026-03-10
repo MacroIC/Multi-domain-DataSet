@@ -1,0 +1,41 @@
+ID: 6d3d29074870
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: -7550, -2498
+LinePtCoord: -7920, -2046
+LinePtNum: 2
+LinePtCoord: -7662, -326
+LinePtCoord: -7662, -326
+LinePtNum: 2
+LinePtCoord: -7612, 45
+LinePtCoord: -7612, 45
+LinePtNum: 4
+LinePtCoord: 5603, -3648
+LinePtCoord: 3373, -3579
+LinePtCoord: 2859, -4088
+LinePtCoord: 2337, -3664
+LinePtNum: 3
+LinePtCoord: 1989, -3795
+LinePtCoord: 1861, -4632
+LinePtCoord: 2178, -5022
+LinePtNum: 3
+LinePtCoord: 3349, -8727
+LinePtCoord: 2689, -8557
+LinePtCoord: 3119, -10000
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.057, 2.649
+oblslot: 0.057, 1.649
+oblslot: 5.090, 1.437
+oblslot: 4.988, -2.955
+oblslot: 1.078, -2.955
+oblslot: 1.078, -3.455
+slot_type: 2
+target_dir: 0
+start: 3.6963, -1.2141, 3.0995
+end: 0.7313, -1.1149, 3.1250
+ID_FINISHED

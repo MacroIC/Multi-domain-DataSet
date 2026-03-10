@@ -1,0 +1,34 @@
+ID: bc5233116793
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 3
+LinePtCoord: -206, 4452
+LinePtCoord: -237, 1516
+LinePtCoord: 141, 1509
+LinePtNum: 3
+LinePtCoord: 528, 1062
+LinePtCoord: 1667, 1204
+LinePtCoord: 5087, 3922
+LinePtNum: 4
+LinePtCoord: 5940, -3934
+LinePtCoord: 4455, -4122
+LinePtCoord: 5054, -4932
+LinePtCoord: 5521, -5848
+plan_cnt: 1
+xybounds: -5, 2, -7, 7
+radarnums: 2  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.308
+oblslot: -0.100, 0.308
+oblslot: 1.949, 0.308
+oblslot: 1.946, -8.689
+oblslot: 0.200, -8.689
+oblslot: 0.200, -10.689
+oblradar: -0.374, 1.269
+oblradar: -0.374, 1.269
+slot_type: 1
+target_dir: 1
+start: 0.5095, -4.9710, 1.5708
+end: -1.6982, -3.1067, 1.5424
+ID_FINISHED

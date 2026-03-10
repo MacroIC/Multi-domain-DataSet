@@ -1,0 +1,45 @@
+Received data from command line argument, length: 628
+<<<<<<<<<<<<<<<<  ID: 927869af53b9  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 1
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: -1.215, 0.896
+INFO [ParseReceivedData][1875] oblslot[6]: -1.215, -0.104
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -0.104
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -3.022
+INFO [ParseReceivedData][1875] oblslot[6]: 0.577, -3.022
+INFO [ParseReceivedData][1875] oblslot[6]: 0.577, -3.522
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 1
+INFO [ParseReceivedData][1992] start: 3.199 -1.347 3.173
+INFO [ParseReceivedData][1993] end: -4.499 -0.843 2.655
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -4.499  -0.843  152.132
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -4.230  -0.976  155.150
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.954  -1.095  158.168
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.673  -1.200  161.187
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.387  -1.289  164.205
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.096  -1.363  167.223
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.802  -1.421  170.241
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.505  -1.464  173.260
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.206  -1.492  176.278
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.907  -1.503  179.296
+INFO [APAPathPlanningConvertArcSegmentToPoints][1323] -1.657  -1.501  181.811
+INFO [OneCircleTrajCal][1440] num: 12
+INFO [OneCircleToEndPosLineCalTraj][1534] CE cal time: 0.380ms
+INFO [HybridAStarPlan][2225] 0_result: 1   (12)
+INFO [HybridAStarPlan][2298] path send success 12
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.199	 y:-1.347	 phi:181.811
+INFO [HybridAStarPlan][2315] traj: [1]	 x:-1.657	 y:-1.501	 phi:181.811
+INFO [HybridAStarPlan][2315] traj: [2]	 x:-1.907	 y:-1.503	 phi:179.296
+INFO [HybridAStarPlan][2315] traj: [3]	 x:-2.206	 y:-1.492	 phi:176.278
+INFO [HybridAStarPlan][2315] traj: [4]	 x:-2.505	 y:-1.464	 phi:173.260
+INFO [HybridAStarPlan][2315] traj: [5]	 x:-2.802	 y:-1.421	 phi:170.241
+INFO [HybridAStarPlan][2315] traj: [6]	 x:-3.096	 y:-1.363	 phi:167.223
+INFO [HybridAStarPlan][2315] traj: [7]	 x:-3.387	 y:-1.289	 phi:164.205
+INFO [HybridAStarPlan][2315] traj: [8]	 x:-3.673	 y:-1.200	 phi:161.187
+INFO [HybridAStarPlan][2315] traj: [9]	 x:-3.954	 y:-1.095	 phi:158.168
+INFO [HybridAStarPlan][2315] traj: [10]	 x:-4.230	 y:-0.976	 phi:155.150
+INFO [HybridAStarPlan][2315] traj: [11]	 x:-4.499	 y:-0.843	 phi:152.132
+

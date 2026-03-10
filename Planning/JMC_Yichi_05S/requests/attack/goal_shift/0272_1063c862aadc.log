@@ -1,0 +1,100 @@
+ID: 1063c862aadc
+# ATTACK_TYPE: goal_shift
+LinePtNum: 2
+LinePtCoord: -6937, -2133
+LinePtCoord: -7338, -1874
+LinePtNum: 3
+LinePtCoord: -3690, 6000
+LinePtCoord: -3600, 5872
+LinePtCoord: -3500, 6000
+LinePtNum: 2
+LinePtCoord: -2471, 4308
+LinePtCoord: -2471, 4308
+LinePtNum: 2
+LinePtCoord: -2260, 3580
+LinePtCoord: -2260, 3580
+LinePtNum: 2
+LinePtCoord: -2030, 3327
+LinePtCoord: -2030, 3327
+LinePtNum: 2
+LinePtCoord: -1853, 2968
+LinePtCoord: -1853, 2968
+LinePtNum: 2
+LinePtCoord: -1689, 2776
+LinePtCoord: -1689, 2776
+LinePtNum: 2
+LinePtCoord: -1496, 2614
+LinePtCoord: -1496, 2614
+LinePtNum: 2
+LinePtCoord: -1355, 2362
+LinePtCoord: -1355, 2362
+LinePtNum: 2
+LinePtCoord: -1117, 2335
+LinePtCoord: -1117, 2335
+LinePtNum: 2
+LinePtCoord: -577, 2784
+LinePtCoord: -577, 2784
+LinePtNum: 2
+LinePtCoord: -353, 2647
+LinePtCoord: -353, 2647
+LinePtNum: 2
+LinePtCoord: -1518, 881
+LinePtCoord: -1518, 881
+LinePtNum: 2
+LinePtCoord: -1530, 682
+LinePtCoord: -1530, 682
+LinePtNum: 2
+LinePtCoord: -1470, 593
+LinePtCoord: -1470, 593
+LinePtNum: 2
+LinePtCoord: -1387, 507
+LinePtCoord: -1387, 507
+LinePtNum: 2
+LinePtCoord: -1350, 398
+LinePtCoord: -1350, 398
+LinePtNum: 2
+LinePtCoord: -1265, 317
+LinePtCoord: -1265, 317
+LinePtNum: 2
+LinePtCoord: -897, 407
+LinePtCoord: -897, 407
+LinePtNum: 4
+LinePtCoord: 2836, 4736
+LinePtCoord: 3626, 5565
+LinePtCoord: 4908, 4441
+LinePtCoord: 5599, 3894
+LinePtNum: 5
+LinePtCoord: 4910, -3950
+LinePtCoord: 4216, -4237
+LinePtCoord: 2246, -3320
+LinePtCoord: 1889, -4490
+LinePtCoord: 2204, -6099
+LinePtNum: 3
+LinePtCoord: 1704, -4476
+LinePtCoord: 2039, -4747
+LinePtCoord: 5062, -6571
+LinePtNum: 4
+LinePtCoord: 3468, -6646
+LinePtCoord: 2286, -6348
+LinePtCoord: 3964, -8775
+LinePtCoord: 4500, -10000
+LinePtNum: 2
+LinePtCoord: -3328, -9140
+LinePtCoord: -3352, -9050
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.442, 1.436
+oblslot: -1.442, 0.436
+oblslot: 4.960, 0.436
+oblslot: 4.960, -3.062
+oblslot: 1.105, -3.062
+oblslot: 1.105, -3.562
+slot_type: 2
+target_dir: 0
+start: 3.6971, -1.3849, 3.1393
+end: 0.0019, -1.0899, 3.1611
+ID_FINISHED

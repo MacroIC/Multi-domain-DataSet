@@ -1,0 +1,30 @@
+ID: 719d9d890172
+# ATTACK_TYPE: goal_shift
+LinePtNum: 3
+LinePtCoord: -7097, 566
+LinePtCoord: -6779, 744
+LinePtCoord: -6601, 330
+LinePtNum: 2
+LinePtCoord: 5049, -1486
+LinePtCoord: 5569, -1389
+LinePtNum: 3
+LinePtCoord: 5479, 2135
+LinePtCoord: 2223, 4275
+LinePtCoord: 5909, 3412
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.374, 1.927
+oblslot: 1.374, 0.927
+oblslot: 4.960, 0.927
+oblslot: 4.960, -3.502
+oblslot: 0.196, -3.502
+oblslot: 0.196, -4.002
+slot_type: 2
+target_dir: 1
+start: 3.1923, -1.3649, 3.1173
+end: -3.6048, 4.2802, 2.0027
+ID_FINISHED

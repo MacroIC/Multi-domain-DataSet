@@ -1,0 +1,46 @@
+ID: 40c4100d6c4f
+LinePtNum: 2
+LinePtCoord: -6956, -2281
+LinePtCoord: -6956, -2281
+LinePtNum: 2
+LinePtCoord: -1740, 832
+LinePtCoord: -1415, 522
+LinePtNum: 3
+LinePtCoord: -1228, 314
+LinePtCoord: -1168, 322
+LinePtCoord: -1144, 299
+LinePtNum: 3
+LinePtCoord: 3098, 6000
+LinePtCoord: 3265, 5673
+LinePtCoord: 3636, 4989
+LinePtNum: 2
+LinePtCoord: 4521, 4145
+LinePtCoord: 4521, 4145
+LinePtNum: 3
+LinePtCoord: 3133, -6751
+LinePtCoord: 2292, -6781
+LinePtCoord: 3271, -7953
+LinePtNum: 3
+LinePtCoord: -3134, -10000
+LinePtCoord: -3378, -9430
+LinePtCoord: -3503, -9200
+LinePtNum: 2
+LinePtCoord: -7731, -1882
+LinePtCoord: -7731, -1882
+plan_cnt: 0
+xybounds: -11, 5, -9, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.000, 1.200
+oblslot: -1.000, 0.200
+oblslot: 4.960, 0.200
+oblslot: 4.960, -3.543
+oblslot: 1.500, -3.543
+oblslot: 1.500, -4.043
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.2700, 3.1416
+end: -0.9719, -6.2740, 2.0819
+ID_FINISHED

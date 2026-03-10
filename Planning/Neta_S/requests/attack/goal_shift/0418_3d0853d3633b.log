@@ -1,0 +1,34 @@
+ID: 3d0853d3633b
+# ATTACK_TYPE: goal_shift
+LinePtNum: 6
+LinePtCoord: 2377, 4961
+LinePtCoord: 2151, 2915
+LinePtCoord: 5659, 2033
+LinePtCoord: 1677, 1525
+LinePtCoord: 1893, 672
+LinePtCoord: 1923, 300
+LinePtNum: 3
+LinePtCoord: 2437, 1768
+LinePtCoord: 1140, 780
+LinePtCoord: 2775, 300
+LinePtNum: 3
+LinePtCoord: 740, -2630
+LinePtCoord: 614, -3116
+LinePtCoord: 584, -4139
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.071, 1.906
+oblslot: 0.071, 0.906
+oblslot: 4.960, 0.906
+oblslot: 4.960, -2.636
+oblslot: 0.023, -2.636
+oblslot: 0.023, -3.136
+slot_type: 2
+target_dir: 1
+start: 3.1965, -1.1529, 3.1615
+end: -3.3428, 1.7564, 2.2306
+ID_FINISHED

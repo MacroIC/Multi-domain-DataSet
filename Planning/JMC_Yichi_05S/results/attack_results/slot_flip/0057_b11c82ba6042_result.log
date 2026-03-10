@@ -1,0 +1,34 @@
+Received data from command line argument, length: 803
+<<<<<<<<<<<<<<<<  ID: b11c82ba6042  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 2
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 1.355, 3.250
+INFO [ParseReceivedData][1875] oblslot[6]: 1.355, 2.250
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 2.250
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -2.476
+INFO [ParseReceivedData][1875] oblslot[6]: 1.680, -2.476
+INFO [ParseReceivedData][1875] oblslot[6]: 1.680, -2.976
+INFO [ParseReceivedData][1990] slot_type: 3
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.697 -1.117 3.141
+INFO [ParseReceivedData][1993] end: 1.727 -0.762 2.879
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 1.556ms
+INFO [HybridAStarPlan][2231] 1_result: 1   (13)
+INFO [HybridAStarPlan][2298] path send success 14
+INFO [HybridAStarPlan][2315] traj: [0]	 x:2.697	 y:-1.116	 phi:179.966
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.997	 y:-1.116	 phi:179.966
+INFO [HybridAStarPlan][2315] traj: [2]	 x:3.297	 y:-1.117	 phi:179.966
+INFO [HybridAStarPlan][2315] traj: [3]	 x:3.597	 y:-1.117	 phi:179.966
+INFO [HybridAStarPlan][2315] traj: [4]	 x:3.897	 y:-1.111	 phi:-177.062
+INFO [HybridAStarPlan][2315] traj: [5]	 x:3.597	 y:-1.116	 phi:179.219
+INFO [HybridAStarPlan][2315] traj: [6]	 x:3.297	 y:-1.103	 phi:175.500
+INFO [HybridAStarPlan][2315] traj: [7]	 x:2.999	 y:-1.069	 phi:171.781
+INFO [HybridAStarPlan][2315] traj: [8]	 x:2.704	 y:-1.017	 phi:168.061
+INFO [HybridAStarPlan][2315] traj: [9]	 x:2.412	 y:-0.946	 phi:164.978
+INFO [HybridAStarPlan][2315] traj: [10]	 x:2.123	 y:-0.868	 phi:164.978
+INFO [HybridAStarPlan][2315] traj: [11]	 x:1.833	 y:-0.790	 phi:164.978
+INFO [HybridAStarPlan][2315] traj: [12]	 x:1.727	 y:-0.762	 phi:164.978
+

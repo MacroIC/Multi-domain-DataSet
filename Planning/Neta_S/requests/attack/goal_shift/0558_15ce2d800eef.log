@@ -1,0 +1,38 @@
+ID: 15ce2d800eef
+# ATTACK_TYPE: goal_shift
+LinePtNum: 5
+LinePtCoord: -888, 3996
+LinePtCoord: -382, 667
+LinePtCoord: 1633, 1201
+LinePtCoord: 2331, 671
+LinePtCoord: 3106, 762
+LinePtNum: 4
+LinePtCoord: 2771, -4388
+LinePtCoord: 1166, -3894
+LinePtCoord: 1190, -4124
+LinePtCoord: 1248, -4430
+LinePtNum: 3
+LinePtCoord: 4740, -6130
+LinePtCoord: 5156, -6937
+LinePtCoord: 4796, -7591
+LinePtNum: 3
+LinePtCoord: -4114, -6960
+LinePtCoord: -4230, -6487
+LinePtCoord: -4275, -6307
+plan_cnt: 0
+xybounds: -11, 5, -7, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.000, 1.200
+oblslot: -1.000, 0.200
+oblslot: 4.981, 0.200
+oblslot: 4.980, -3.496
+oblslot: 0.200, -3.496
+oblslot: 0.200, -3.996
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.2470, 3.1416
+end: -0.9381, -3.5634, 2.0632
+ID_FINISHED

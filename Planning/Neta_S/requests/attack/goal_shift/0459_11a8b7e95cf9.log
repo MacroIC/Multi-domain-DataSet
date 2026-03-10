@@ -1,0 +1,19 @@
+ID: 11a8b7e95cf9
+# ATTACK_TYPE: goal_shift
+plan_cnt: 1
+xybounds: -11, 5, -3, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.239, 3.849
+oblslot: -0.239, 1.849
+oblslot: 5.309, 2.027
+oblslot: 5.391, -3.079
+oblslot: 0.858, -3.079
+oblslot: 0.858, -3.579
+slot_type: 2
+target_dir: 0
+start: 3.6970, -1.0086, 3.1735
+end: 3.4971, -0.5036, 3.1381
+ID_FINISHED

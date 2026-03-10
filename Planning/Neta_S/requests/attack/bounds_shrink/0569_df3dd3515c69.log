@@ -1,0 +1,33 @@
+ID: df3dd3515c69
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: 4748, 5281
+LinePtCoord: 5122, 4647
+LinePtNum: 2
+LinePtCoord: -852, 786
+LinePtCoord: -1588, 1086
+LinePtNum: 3
+LinePtCoord: -1714, 1078
+LinePtCoord: -1698, 696
+LinePtCoord: -1119, 299
+LinePtNum: 3
+LinePtCoord: -6989, -2269
+LinePtCoord: -7242, -1975
+LinePtCoord: -7481, -1723
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.518, 1.139
+oblslot: -1.518, 0.139
+oblslot: 4.960, 0.139
+oblslot: 4.960, -3.550
+oblslot: 1.502, -3.550
+oblslot: 1.502, -4.050
+slot_type: 2
+target_dir: 1
+start: 3.1971, -1.2995, 3.1434
+end: -4.6964, 1.7985, 2.0712
+ID_FINISHED

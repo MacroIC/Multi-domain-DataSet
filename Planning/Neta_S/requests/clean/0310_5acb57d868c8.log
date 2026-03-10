@@ -1,0 +1,26 @@
+ID: 5acb57d868c8
+LinePtNum: 3
+LinePtCoord: 433, 3222
+LinePtCoord: 197, 2869
+LinePtCoord: 248, 2597
+LinePtNum: 3
+LinePtCoord: -6866, 2176
+LinePtCoord: -6483, 2880
+LinePtCoord: -6341, 3308
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.024, 3.314
+oblslot: 0.024, 2.314
+oblslot: 4.960, 2.314
+oblslot: 4.960, -3.239
+oblslot: 0.201, -3.239
+oblslot: 0.201, -3.739
+slot_type: 2
+target_dir: 1
+start: 3.1968, -1.1522, 3.1292
+end: -2.4991, 3.8388, 1.7217
+ID_FINISHED

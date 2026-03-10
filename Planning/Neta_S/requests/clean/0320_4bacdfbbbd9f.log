@@ -1,0 +1,44 @@
+ID: 4bacdfbbbd9f
+LinePtNum: 3
+LinePtCoord: -5484, -8617
+LinePtCoord: -5792, -8199
+LinePtCoord: -6375, -7634
+LinePtNum: 2
+LinePtCoord: -7847, 3835
+LinePtCoord: -7645, 4204
+LinePtNum: 4
+LinePtCoord: -741, 5474
+LinePtCoord: -18, 3508
+LinePtCoord: 3236, 3515
+LinePtCoord: 5820, 5247
+LinePtNum: 2
+LinePtCoord: 5895, -5941
+LinePtCoord: 5443, -6522
+LinePtNum: 6
+LinePtCoord: 5744, -5792
+LinePtCoord: 2866, -5809
+LinePtCoord: 3197, -6639
+LinePtCoord: 2527, -6347
+LinePtCoord: 2730, -7146
+LinePtCoord: 3072, -8461
+LinePtNum: 3
+LinePtCoord: -7392, -10000
+LinePtCoord: -7408, -9971
+LinePtCoord: -7713, -9525
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.072, 2.626
+oblslot: 0.072, 1.626
+oblslot: 5.208, 1.349
+oblslot: 5.080, -5.831
+oblslot: 1.140, -5.831
+oblslot: 1.140, -6.331
+slot_type: 2
+target_dir: 0
+start: 3.6938, -1.2637, 3.0878
+end: 1.6190, -1.1095, 3.1463
+ID_FINISHED

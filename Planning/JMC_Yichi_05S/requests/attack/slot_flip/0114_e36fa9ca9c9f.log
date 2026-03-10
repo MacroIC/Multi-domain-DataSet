@@ -1,0 +1,33 @@
+ID: e36fa9ca9c9f
+# ATTACK_TYPE: slot_flip
+LinePtNum: 2
+LinePtCoord: 2562, 4582
+LinePtCoord: 4982, 4971
+LinePtNum: 2
+LinePtCoord: -235, 1311
+LinePtCoord: -1021, 512
+LinePtNum: 3
+LinePtCoord: -4048, -7690
+LinePtCoord: -4418, -7468
+LinePtCoord: -4683, -7986
+LinePtNum: 3
+LinePtCoord: -7083, -1765
+LinePtCoord: -7588, -1778
+LinePtCoord: -7706, -1826
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.152, 0.758
+oblslot: -1.152, -0.242
+oblslot: 4.960, -0.242
+oblslot: 4.960, -2.550
+oblslot: 1.108, -2.550
+oblslot: 1.108, -3.050
+slot_type: 3
+target_dir: 1
+start: 3.1961, -1.4061, 3.1385
+end: -5.4120, -0.1449, 2.6854
+ID_FINISHED

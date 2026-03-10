@@ -1,0 +1,42 @@
+ID: 59c46beb6550
+# ATTACK_TYPE: goal_shift
+LinePtNum: 3
+LinePtCoord: -2859, 3786
+LinePtCoord: -2425, 3346
+LinePtCoord: -1713, 3727
+LinePtNum: 4
+LinePtCoord: 3228, 3785
+LinePtCoord: -287, 2033
+LinePtCoord: -199, 1093
+LinePtCoord: -206, 866
+LinePtNum: 3
+LinePtCoord: -244, 822
+LinePtCoord: 1994, 1280
+LinePtCoord: 2533, 941
+LinePtNum: 2
+LinePtCoord: 3023, -5604
+LinePtCoord: 3023, -5604
+LinePtNum: 3
+LinePtCoord: 2366, -8389
+LinePtCoord: 50, -8490
+LinePtCoord: 523, -10000
+LinePtNum: 2
+LinePtCoord: -4463, -6185
+LinePtCoord: -4471, -6171
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.175, 1.676
+oblslot: -1.175, 0.676
+oblslot: 4.960, 0.676
+oblslot: 4.960, -3.371
+oblslot: 0.200, -3.371
+oblslot: 0.200, -3.871
+slot_type: 2
+target_dir: 1
+start: 3.1970, -1.1307, 3.1396
+end: -2.5585, -0.0600, 2.7603
+ID_FINISHED

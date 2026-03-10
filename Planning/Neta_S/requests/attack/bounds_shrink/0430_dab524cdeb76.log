@@ -1,0 +1,57 @@
+ID: dab524cdeb76
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: -1218, 6000
+LinePtCoord: -1522, 5145
+LinePtNum: 5
+LinePtCoord: -1594, 6000
+LinePtCoord: -1139, 3614
+LinePtCoord: -497, 3065
+LinePtCoord: 291, 3409
+LinePtCoord: 3056, 4881
+LinePtNum: 2
+LinePtCoord: 2097, 3471
+LinePtCoord: 4737, 4153
+LinePtNum: 3
+LinePtCoord: 4735, 3137
+LinePtCoord: 5733, 2784
+LinePtCoord: 5564, 2227
+LinePtNum: 2
+LinePtCoord: 5719, 35
+LinePtCoord: 5908, -520
+LinePtNum: 3
+LinePtCoord: 5544, -3899
+LinePtCoord: 1898, -4329
+LinePtCoord: 1842, -4884
+LinePtNum: 4
+LinePtCoord: 4255, -3255
+LinePtCoord: 1305, -3667
+LinePtCoord: 1069, -4664
+LinePtCoord: 1310, -4987
+LinePtNum: 2
+LinePtCoord: -7899, -6554
+LinePtCoord: -7899, -6554
+LinePtNum: 6
+LinePtCoord: -5419, -8343
+LinePtCoord: -5765, -6330
+LinePtCoord: -6925, -7682
+LinePtCoord: -7091, -4737
+LinePtCoord: -7357, -4594
+LinePtCoord: -7413, -4021
+plan_cnt: 0
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.000, 3.300
+oblslot: -0.000, 2.300
+oblslot: 4.960, 2.300
+oblslot: 4.960, -3.185
+oblslot: -0.416, -3.185
+oblslot: -0.416, -3.685
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.1470, 3.1416
+end: -3.0021, -1.0497, 1.8780
+ID_FINISHED

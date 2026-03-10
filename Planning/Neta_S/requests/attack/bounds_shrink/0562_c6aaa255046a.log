@@ -1,0 +1,46 @@
+ID: c6aaa255046a
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: -6565, 2913
+LinePtCoord: -6077, 2653
+LinePtNum: 2
+LinePtCoord: -7796, 768
+LinePtCoord: -7037, -901
+LinePtNum: 2
+LinePtCoord: -6402, -6114
+LinePtCoord: -6210, -8734
+LinePtNum: 2
+LinePtCoord: -4504, -9403
+LinePtCoord: -3298, -8556
+LinePtNum: 2
+LinePtCoord: 266, -6298
+LinePtCoord: 381, -4748
+LinePtNum: 3
+LinePtCoord: 4641, 350
+LinePtCoord: 2233, 966
+LinePtCoord: 1892, 1373
+LinePtNum: 5
+LinePtCoord: 699, 1014
+LinePtCoord: 551, 2182
+LinePtCoord: 1645, 2205
+LinePtCoord: -199, 3336
+LinePtCoord: 156, 3564
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 2  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.367, 1.200
+oblslot: 0.367, 0.200
+oblslot: 4.960, 0.200
+oblslot: 4.960, -4.497
+oblslot: 0.200, -4.497
+oblslot: 0.200, -4.997
+oblradar: -6.525, 3.837
+oblradar: -6.525, 3.837
+slot_type: 2
+target_dir: 1
+start: 3.1968, -1.0633, 3.1458
+end: -2.9750, 1.1255, 2.2301
+ID_FINISHED

@@ -1,0 +1,46 @@
+ID: 22d88515d5cd
+LinePtNum: 3
+LinePtCoord: -6871, 6000
+LinePtCoord: -4289, 4139
+LinePtCoord: -4834, 6000
+LinePtNum: 3
+LinePtCoord: 3138, 6000
+LinePtCoord: 3330, 4195
+LinePtCoord: 3605, 3582
+LinePtNum: 6
+LinePtCoord: 2642, 4698
+LinePtCoord: 3495, -1129
+LinePtCoord: 3573, -4889
+LinePtCoord: 3644, -7928
+LinePtCoord: 3889, -9256
+LinePtCoord: 3809, -10000
+LinePtNum: 5
+LinePtCoord: 2769, -6764
+LinePtCoord: 3349, -8274
+LinePtCoord: 1425, -8299
+LinePtCoord: 954, -8656
+LinePtCoord: 727, -9654
+LinePtNum: 2
+LinePtCoord: -6352, -9760
+LinePtCoord: -6352, -9760
+LinePtNum: 3
+LinePtCoord: -4878, -2189
+LinePtCoord: -4532, -1312
+LinePtCoord: -6700, -1281
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 3.115
+oblslot: -0.100, 1.115
+oblslot: 2.745, 1.115
+oblslot: 2.745, -7.317
+oblslot: 0.200, -7.317
+oblslot: 0.200, -9.317
+slot_type: 1
+target_dir: 0
+start: 1.2710, -5.0850, 1.5708
+end: -2.0015, -3.1926, 1.5130
+ID_FINISHED

@@ -1,0 +1,34 @@
+ID: b2ac701ece6c
+# ATTACK_TYPE: slot_flip
+LinePtNum: 2
+LinePtCoord: 4196, 5289
+LinePtCoord: 4196, 5289
+LinePtNum: 4
+LinePtCoord: -1651, 1167
+LinePtCoord: -1991, 1001
+LinePtCoord: -1628, 674
+LinePtCoord: -1109, 300
+LinePtNum: 2
+LinePtCoord: -7605, -2667
+LinePtCoord: -7605, -2667
+LinePtNum: 3
+LinePtCoord: -6584, -5050
+LinePtCoord: -7542, -1625
+LinePtCoord: -7841, -1890
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.569, 1.150
+oblslot: -1.569, 0.150
+oblslot: 4.960, 0.150
+oblslot: 4.960, -4.857
+oblslot: 1.498, -4.851
+oblslot: 1.498, -5.351
+slot_type: 3
+target_dir: 1
+start: 3.1969, -1.3049, 3.1402
+end: -5.2715, 1.8665, 2.0648
+ID_FINISHED

@@ -1,0 +1,49 @@
+ID: 1d1de85c876a
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: -7802, -9990
+LinePtCoord: -7646, -8264
+LinePtNum: 3
+LinePtCoord: 5245, 5995
+LinePtCoord: 5068, 5504
+LinePtCoord: 5847, 5584
+LinePtNum: 2
+LinePtCoord: 5340, 3586
+LinePtCoord: 5322, 3550
+LinePtNum: 2
+LinePtCoord: 5539, 3260
+LinePtCoord: 5544, 3261
+LinePtNum: 2
+LinePtCoord: 5210, 2809
+LinePtCoord: 5224, 2837
+LinePtNum: 4
+LinePtCoord: 5243, -3421
+LinePtCoord: 3925, -2938
+LinePtCoord: 3601, -3272
+LinePtCoord: 3715, -4408
+LinePtNum: 3
+LinePtCoord: 1144, -2802
+LinePtCoord: 762, -3946
+LinePtCoord: 1154, -4712
+LinePtNum: 4
+LinePtCoord: -5308, -8399
+LinePtCoord: -5604, -7446
+LinePtCoord: -7625, -8126
+LinePtCoord: -7914, -7776
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 3.005, 2.285
+oblslot: 3.005, 1.238
+oblslot: 4.960, 1.285
+oblslot: 4.960, -2.641
+oblslot: 0.771, -2.641
+oblslot: 0.771, -3.141
+slot_type: 2
+target_dir: 0
+start: 3.4975, -1.1132, 3.1357
+end: 1.6659, -1.1872, 3.0636
+ID_FINISHED

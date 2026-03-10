@@ -1,0 +1,39 @@
+ID: 376c304169dd
+LinePtNum: 1
+LinePtCoord: -3616, 3810
+LinePtNum: 2
+LinePtCoord: 846, 3054
+LinePtCoord: 920, 2580
+LinePtNum: 4
+LinePtCoord: 561, 1130
+LinePtCoord: 1499, 756
+LinePtCoord: 3360, -4190
+LinePtCoord: 3417, -4579
+LinePtNum: 7
+LinePtCoord: 3427, -4433
+LinePtCoord: 3179, -7421
+LinePtCoord: 2508, -7280
+LinePtCoord: 2603, -8539
+LinePtCoord: 1291, -7836
+LinePtCoord: 373, -8082
+LinePtCoord: -137, -8272
+LinePtNum: 2
+LinePtCoord: -4740, -8436
+LinePtCoord: -5400, -8756
+plan_cnt: 2
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.400
+oblslot: -0.100, 0.400
+oblslot: 2.648, 0.400
+oblslot: 2.514, -7.114
+oblslot: 0.200, -7.114
+oblslot: 0.200, -9.114
+slot_type: 1
+target_dir: 1
+start: 1.2640, -4.7814, 1.5481
+end: 0.2734, -3.3892, 1.9667
+ID_FINISHED

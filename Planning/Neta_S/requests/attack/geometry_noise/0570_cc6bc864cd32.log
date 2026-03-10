@@ -1,0 +1,30 @@
+ID: cc6bc864cd32
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -1297, 1172
+LinePtCoord: -1258, 984
+LinePtCoord: -1189, 832
+LinePtNum: 2
+LinePtCoord: -2767, -9978
+LinePtCoord: -3447, -9438
+LinePtNum: 3
+LinePtCoord: -7010, -2549
+LinePtCoord: -7133, -1549
+LinePtCoord: -7278, -1576
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.532, 1.454
+oblslot: -1.532, 0.454
+oblslot: 4.960, 0.454
+oblslot: 4.960, -3.493
+oblslot: 1.502, -3.493
+oblslot: 1.502, -3.993
+slot_type: 2
+target_dir: 1
+start: 3.1969, -1.1770, 3.1434
+end: -2.8139, -0.7088, 2.8015
+ID_FINISHED

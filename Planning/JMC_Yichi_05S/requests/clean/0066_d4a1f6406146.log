@@ -1,0 +1,43 @@
+ID: d4a1f6406146
+LinePtNum: 2
+LinePtCoord: -7832, -14
+LinePtCoord: -7946, 464
+LinePtNum: 2
+LinePtCoord: -2876, 3781
+LinePtCoord: -2572, 3231
+LinePtNum: 3
+LinePtCoord: -2423, 2986
+LinePtCoord: -2362, 2998
+LinePtCoord: -2162, 2863
+LinePtNum: 4
+LinePtCoord: -369, 2932
+LinePtCoord: -123, 456
+LinePtCoord: 2641, 745
+LinePtCoord: 2927, 499
+LinePtNum: 2
+LinePtCoord: 1888, -4175
+LinePtCoord: 1888, -4175
+LinePtNum: 6
+LinePtCoord: -4330, -6653
+LinePtCoord: -5061, -6584
+LinePtCoord: -5614, -7333
+LinePtCoord: -5401, -5613
+LinePtCoord: -6155, -4867
+LinePtCoord: -6306, -4747
+plan_cnt: 0
+xybounds: -11, 5, -6, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.000, 1.051
+oblslot: -1.000, 0.051
+oblslot: 4.960, 0.051
+oblslot: 4.960, -3.531
+oblslot: 0.200, -3.531
+oblslot: 0.200, -4.031
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.3810, 3.1416
+end: -1.8778, -3.7064, 2.1264
+ID_FINISHED

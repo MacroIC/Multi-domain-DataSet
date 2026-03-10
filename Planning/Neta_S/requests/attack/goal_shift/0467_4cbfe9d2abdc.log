@@ -1,0 +1,27 @@
+ID: 4cbfe9d2abdc
+# ATTACK_TYPE: goal_shift
+LinePtNum: 3
+LinePtCoord: 383, 1136
+LinePtCoord: -407, 552
+LinePtCoord: 1003, 299
+LinePtNum: 3
+LinePtCoord: -7027, -2135
+LinePtCoord: -7623, -1698
+LinePtCoord: -7833, -1797
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.802, 1.142
+oblslot: 0.802, 0.142
+oblslot: 4.960, 0.142
+oblslot: 4.960, -3.524
+oblslot: 0.200, -3.524
+oblslot: 0.200, -4.024
+slot_type: 2
+target_dir: 1
+start: 3.1966, -1.3157, 3.1338
+end: -4.7836, 1.4698, 2.4350
+ID_FINISHED

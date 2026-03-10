@@ -1,0 +1,31 @@
+ID: 9c12ace1e687
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: 5774, -5287
+LinePtCoord: 5749, -5284
+LinePtNum: 3
+LinePtCoord: 5907, 1764
+LinePtCoord: 4127, 1776
+LinePtCoord: 4297, 2030
+LinePtNum: 4
+LinePtCoord: 5687, 4752
+LinePtCoord: 5785, 5407
+LinePtCoord: 4920, 5326
+LinePtCoord: 5304, 5960
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.072, 2.666
+oblslot: 0.072, 1.666
+oblslot: 4.960, 1.405
+oblslot: 4.960, -3.231
+oblslot: 0.204, -3.231
+oblslot: 0.204, -3.731
+slot_type: 2
+target_dir: 0
+start: 3.4923, -1.2213, 3.0870
+end: 1.7947, -1.0063, 3.0248
+ID_FINISHED

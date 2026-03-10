@@ -1,0 +1,31 @@
+ID: 33ac4b512aea
+# ATTACK_TYPE: slot_flip
+LinePtNum: 2
+LinePtCoord: -6672, 2936
+LinePtCoord: -6672, 2936
+LinePtNum: 3
+LinePtCoord: 481, 2463
+LinePtCoord: 1005, 2683
+LinePtCoord: 1199, 2684
+LinePtNum: 4
+LinePtCoord: 3616, -2911
+LinePtCoord: 1194, -2680
+LinePtCoord: 231, -2932
+LinePtCoord: -107, -3043
+plan_cnt: 4
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.020, 3.536
+oblslot: -0.020, 1.536
+oblslot: 4.978, 1.638
+oblslot: 5.023, -2.674
+oblslot: 1.725, -2.674
+oblslot: 1.725, -3.174
+slot_type: 3
+target_dir: 0
+start: 3.6982, -1.2091, 3.1621
+end: 3.8137, -1.1578, 3.1502
+ID_FINISHED

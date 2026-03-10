@@ -1,0 +1,55 @@
+Received data from command line argument, length: 780
+<<<<<<<<<<<<<<<<  ID: 56aa2b31c11b  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 2
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 1.151, 2.340
+INFO [ParseReceivedData][1875] oblslot[6]: 1.151, 1.340
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 1.340
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -4.486
+INFO [ParseReceivedData][1875] oblslot[6]: 1.495, -4.486
+INFO [ParseReceivedData][1875] oblslot[6]: 1.495, -4.986
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 1
+INFO [ParseReceivedData][1992] start: 3.197 -1.096 3.137
+INFO [ParseReceivedData][1993] end: -3.326 -0.194 2.734
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.326  -0.194  156.629
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -3.049  -0.309  158.212
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.769  -0.417  159.795
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.486  -0.517  161.378
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -2.200  -0.609  162.961
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.912  -0.692  164.544
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.622  -0.768  166.127
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.330  -0.836  167.710
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -1.036  -0.896  169.293
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -0.740  -0.948  170.876
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -0.444  -0.991  172.459
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] -0.146  -1.027  174.042
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] 0.153  -1.054  175.625
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] 0.453  -1.072  177.208
+INFO [APAPathPlanningConvertArcSegmentToPoints][1303] 0.752  -1.083  178.791
+INFO [APAPathPlanningConvertArcSegmentToPoints][1323] 0.929  -1.085  179.725
+INFO [OneCircleTrajCal][1440] num: 17
+INFO [OneCircleToEndPosLineCalTraj][1534] CE cal time: 1.114ms
+INFO [HybridAStarPlan][2225] 0_result: 1   (17)
+INFO [HybridAStarPlan][2298] path send success 17
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.096	 phi:179.726
+INFO [HybridAStarPlan][2315] traj: [1]	 x:0.929	 y:-1.085	 phi:179.726
+INFO [HybridAStarPlan][2315] traj: [2]	 x:0.752	 y:-1.083	 phi:178.791
+INFO [HybridAStarPlan][2315] traj: [3]	 x:0.453	 y:-1.072	 phi:177.208
+INFO [HybridAStarPlan][2315] traj: [4]	 x:0.153	 y:-1.054	 phi:175.625
+INFO [HybridAStarPlan][2315] traj: [5]	 x:-0.146	 y:-1.027	 phi:174.042
+INFO [HybridAStarPlan][2315] traj: [6]	 x:-0.444	 y:-0.991	 phi:172.459
+INFO [HybridAStarPlan][2315] traj: [7]	 x:-0.740	 y:-0.948	 phi:170.876
+INFO [HybridAStarPlan][2315] traj: [8]	 x:-1.036	 y:-0.896	 phi:169.293
+INFO [HybridAStarPlan][2315] traj: [9]	 x:-1.330	 y:-0.836	 phi:167.710
+INFO [HybridAStarPlan][2315] traj: [10]	 x:-1.622	 y:-0.768	 phi:166.127
+INFO [HybridAStarPlan][2315] traj: [11]	 x:-1.912	 y:-0.692	 phi:164.544
+INFO [HybridAStarPlan][2315] traj: [12]	 x:-2.200	 y:-0.609	 phi:162.961
+INFO [HybridAStarPlan][2315] traj: [13]	 x:-2.486	 y:-0.517	 phi:161.378
+INFO [HybridAStarPlan][2315] traj: [14]	 x:-2.769	 y:-0.417	 phi:159.796
+INFO [HybridAStarPlan][2315] traj: [15]	 x:-3.049	 y:-0.309	 phi:158.213
+INFO [HybridAStarPlan][2315] traj: [16]	 x:-3.326	 y:-0.194	 phi:156.630
+

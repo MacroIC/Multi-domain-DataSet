@@ -1,0 +1,34 @@
+ID: 4c79c2b21fae
+LinePtNum: 2
+LinePtCoord: 5876, 4540
+LinePtCoord: 5876, 4540
+LinePtNum: 3
+LinePtCoord: 590, 2642
+LinePtCoord: 392, 1839
+LinePtCoord: -1320, 461
+LinePtNum: 3
+LinePtCoord: -3062, -9519
+LinePtCoord: -3905, -8354
+LinePtCoord: -4766, -7253
+LinePtNum: 4
+LinePtCoord: -6007, -4794
+LinePtCoord: -7132, -1771
+LinePtCoord: -7528, -1841
+LinePtCoord: -7637, -1858
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.603, 1.755
+oblslot: -1.603, 0.755
+oblslot: 4.960, 0.755
+oblslot: 4.960, -3.312
+oblslot: 1.139, -3.312
+oblslot: 1.139, -3.812
+slot_type: 2
+target_dir: 1
+start: 3.1974, -1.2861, 3.1582
+end: -5.1301, -0.3366, 2.6754
+ID_FINISHED

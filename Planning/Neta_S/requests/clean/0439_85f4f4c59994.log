@@ -1,0 +1,33 @@
+ID: 85f4f4c59994
+LinePtNum: 2
+LinePtCoord: 5641, 4584
+LinePtCoord: 5641, 4584
+LinePtNum: 6
+LinePtCoord: 5721, 3334
+LinePtCoord: 4366, 2714
+LinePtCoord: 4660, 2162
+LinePtCoord: 1108, 1073
+LinePtCoord: 1181, 673
+LinePtCoord: 1287, 299
+LinePtNum: 4
+LinePtCoord: 626, 1602
+LinePtCoord: 993, 980
+LinePtCoord: 346, 434
+LinePtCoord: 1248, 299
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.276, 1.178
+oblslot: -0.276, 0.178
+oblslot: 4.960, 0.178
+oblslot: 4.960, -4.710
+oblslot: 1.557, -4.710
+oblslot: 1.557, -5.210
+slot_type: 2
+target_dir: 1
+start: 2.9896, -1.1440, 3.1857
+end: -4.2504, 0.8353, 2.3477
+ID_FINISHED

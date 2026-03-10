@@ -1,0 +1,64 @@
+Received data from command line argument, length: 818
+<<<<<<<<<<<<<<<<  ID: e87cc9f3a412  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 1
+INFO [ParseReceivedData][1840] xybounds: xmin: -8  xmax: 4  ymin: -4  ymax: 8
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.872, 1.028
+INFO [ParseReceivedData][1875] oblslot[6]: 0.872, 0.028
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 0.028
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -3.486
+INFO [ParseReceivedData][1875] oblslot[6]: 1.500, -3.486
+INFO [ParseReceivedData][1875] oblslot[6]: 1.500, -3.986
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 1
+INFO [ParseReceivedData][1992] start: 3.197 -1.404 3.142
+INFO [ParseReceivedData][1993] end: -2.983 -1.023 2.012
+INFO [KeyNodeCheckValid][1105] false rs start
+INFO [HybridAStarPlan][2220] -------------------0-------------------
+INFO [GenerateDpMap][194] map explored node: 2115
+INFO [Plan][681] map time: 40ms
+INFO [Plan][746] explored_node_num:145
+INFO [Plan][747] heuristic time is 2.563ms.
+INFO [Plan][748] reed shepp time is 2.877ms.
+INFO [Plan][749] total time: 52ms
+INFO [HybridAStarPlan][2243] 2_result: 1   (37)
+INFO [HybridAStarPlan][2298] path send success 39
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.404	 phi:180.001
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.897	 y:-1.404	 phi:176.281
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.598	 y:-1.385	 phi:-177.869
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.298	 y:-1.396	 phi:178.412
+INFO [HybridAStarPlan][2315] traj: [4]	 x:1.998	 y:-1.387	 phi:-179.504
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.698	 y:-1.390	 phi:176.777
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.398	 y:-1.373	 phi:-177.374
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.099	 y:-1.387	 phi:-178.047
+INFO [HybridAStarPlan][2315] traj: [8]	 x:0.799	 y:-1.397	 phi:178.235
+INFO [HybridAStarPlan][2315] traj: [9]	 x:0.499	 y:-1.388	 phi:-179.682
+INFO [HybridAStarPlan][2315] traj: [10]	 x:0.199	 y:-1.390	 phi:176.599
+INFO [HybridAStarPlan][2315] traj: [11]	 x:-0.100	 y:-1.372	 phi:-177.551
+INFO [HybridAStarPlan][2315] traj: [12]	 x:-0.400	 y:-1.385	 phi:178.730
+INFO [HybridAStarPlan][2315] traj: [13]	 x:-0.700	 y:-1.378	 phi:-179.187
+INFO [HybridAStarPlan][2315] traj: [14]	 x:-1.000	 y:-1.382	 phi:-173.337
+INFO [HybridAStarPlan][2315] traj: [15]	 x:-1.299	 y:-1.407	 phi:-177.056
+INFO [HybridAStarPlan][2315] traj: [16]	 x:-1.599	 y:-1.413	 phi:179.225
+INFO [HybridAStarPlan][2315] traj: [17]	 x:-1.898	 y:-1.399	 phi:175.506
+INFO [HybridAStarPlan][2315] traj: [18]	 x:-2.197	 y:-1.366	 phi:171.787
+INFO [HybridAStarPlan][2315] traj: [19]	 x:-2.492	 y:-1.313	 phi:168.067
+INFO [HybridAStarPlan][2315] traj: [20]	 x:-2.783	 y:-1.242	 phi:164.348
+INFO [HybridAStarPlan][2315] traj: [21]	 x:-3.069	 y:-1.152	 phi:160.629
+INFO [HybridAStarPlan][2315] traj: [22]	 x:-3.349	 y:-1.043	 phi:156.910
+INFO [HybridAStarPlan][2315] traj: [23]	 x:-3.621	 y:-0.917	 phi:153.191
+INFO [HybridAStarPlan][2315] traj: [24]	 x:-3.887	 y:-0.778	 phi:153.526
+INFO [HybridAStarPlan][2315] traj: [25]	 x:-3.623	 y:-0.920	 phi:149.807
+INFO [HybridAStarPlan][2315] traj: [26]	 x:-3.368	 y:-1.079	 phi:146.087
+INFO [HybridAStarPlan][2315] traj: [27]	 x:-3.125	 y:-1.255	 phi:142.368
+INFO [HybridAStarPlan][2315] traj: [28]	 x:-2.894	 y:-1.445	 phi:138.649
+INFO [HybridAStarPlan][2315] traj: [29]	 x:-2.675	 y:-1.651	 phi:134.930
+INFO [HybridAStarPlan][2315] traj: [30]	 x:-2.470	 y:-1.870	 phi:131.211
+INFO [HybridAStarPlan][2315] traj: [31]	 x:-2.276	 y:-2.099	 phi:131.317
+INFO [HybridAStarPlan][2315] traj: [32]	 x:-2.467	 y:-1.867	 phi:127.598
+INFO [HybridAStarPlan][2315] traj: [33]	 x:-2.642	 y:-1.624	 phi:123.879
+INFO [HybridAStarPlan][2315] traj: [34]	 x:-2.801	 y:-1.369	 phi:120.159
+INFO [HybridAStarPlan][2315] traj: [35]	 x:-2.943	 y:-1.105	 phi:116.440
+INFO [HybridAStarPlan][2315] traj: [36]	 x:-2.983	 y:-1.023	 phi:115.302
+

@@ -1,0 +1,33 @@
+ID: 244766916daa
+# ATTACK_TYPE: goal_shift
+LinePtNum: 2
+LinePtCoord: 729, 2873
+LinePtCoord: 1136, 2613
+LinePtNum: 2
+LinePtCoord: 49, -4993
+LinePtCoord: 858, -7783
+LinePtNum: 7
+LinePtCoord: -6001, -7358
+LinePtCoord: -6496, -4779
+LinePtCoord: -7369, -8058
+LinePtCoord: -6823, -2577
+LinePtCoord: -7122, -1694
+LinePtCoord: -7423, -1698
+LinePtCoord: -7604, -1718
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.010, 3.629
+oblslot: -0.010, 1.629
+oblslot: 4.960, 1.676
+oblslot: 4.960, -4.666
+oblslot: 0.201, -4.666
+oblslot: 0.201, -5.166
+slot_type: 2
+target_dir: 1
+start: 3.1969, -1.1882, 3.1510
+end: -3.3044, -0.1558, 2.7959
+ID_FINISHED

@@ -1,0 +1,36 @@
+ID: bc0436cd56d5
+LinePtNum: 6
+LinePtCoord: 1686, 4725
+LinePtCoord: 2739, 2833
+LinePtCoord: 5815, 2165
+LinePtCoord: 1860, 1473
+LinePtCoord: 1766, 403
+LinePtCoord: 1835, 300
+LinePtNum: 3
+LinePtCoord: 1854, 1534
+LinePtCoord: 1065, 654
+LinePtCoord: 3768, 300
+LinePtNum: 3
+LinePtCoord: 2966, -3738
+LinePtCoord: 1799, -3900
+LinePtCoord: 687, -3847
+LinePtNum: 2
+LinePtCoord: -7917, -8244
+LinePtCoord: -7917, -8244
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.329, 1.173
+oblslot: 0.329, 0.173
+oblslot: 4.960, 0.173
+oblslot: 4.960, -3.888
+oblslot: 0.073, -3.888
+oblslot: 0.073, -4.388
+slot_type: 2
+target_dir: 1
+start: 3.1971, -1.1800, 3.1468
+end: -3.6405, 0.9479, 2.2771
+ID_FINISHED

@@ -1,0 +1,128 @@
+ID: 67341a1f45c4
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: -4636, 3809
+LinePtCoord: -5056, 5032
+LinePtNum: 3
+LinePtCoord: 4445, 5951
+LinePtCoord: 4232, 5077
+LinePtCoord: 4943, 45699
+LinePtNum: 4
+LinePtCoord: 3703, 6017
+LinePtCoord: 3168, 1081
+LinePtCoord: 3035, -522
+LinePtCoord: 3022, -747
+LinePtNum: 2
+LinePtCoord: 2996, -1095
+LinePtCoord: 3024, -1139
+LinePtNum: 2
+LinePtCoord: 3412, -2056
+LinePtCoord: 3404, -2078
+LinePtNum: 2
+LinePtCoord: 3530, -2370
+LinePtCoord: 3572, -2403
+LinePtNum: 2
+LinePtCoord: 3717, -2763
+LinePtCoord: 3744, -2766
+LinePtNum: 2
+LinePtCoord: 3432, -3003
+LinePtCoord: 3488, -3021
+LinePtNum: 2
+LinePtCoord: 3277, -3309
+LinePtCoord: 3245, -3290
+LinePtNum: 2
+LinePtCoord: 3257, -3611
+LinePtCoord: 3194, -3659
+LinePtNum: 2
+LinePtCoord: 3281, -4177
+LinePtCoord: 3297, -4177
+LinePtNum: 2
+LinePtCoord: 3253, -4643
+LinePtCoord: 3297, -4632
+LinePtNum: 2
+LinePtCoord: 3372, -5170
+LinePtCoord: 3392, -5126
+LinePtNum: 2
+LinePtCoord: 3204, -5539
+LinePtCoord: 3252, -5531
+LinePtNum: 2
+LinePtCoord: 3611, -6707
+LinePtCoord: 3583, -6728
+LinePtNum: 2
+LinePtCoord: 3855, -7714
+LinePtCoord: 3783, -7649
+LinePtNum: 2
+LinePtCoord: 4234, -9260
+LinePtCoord: 4226, -9206
+LinePtNum: 2
+LinePtCoord: 4347, -9960
+LinePtCoord: 4347, -10039
+LinePtNum: 4
+LinePtCoord: 5799, -7748
+LinePtCoord: 3649, -7365
+LinePtCoord: 3413, -9236
+LinePtCoord: 3388, -10027
+LinePtNum: 2
+LinePtCoord: 284, -8913
+LinePtCoord: 293, -8970
+LinePtNum: 2
+LinePtCoord: 86, -9991
+LinePtCoord: 133, -10041
+LinePtNum: 2
+LinePtCoord: -7279, -6679
+LinePtCoord: -6830, -5726
+LinePtNum: 2
+LinePtCoord: -6492, -8806
+LinePtCoord: -7166, -9952
+LinePtNum: 2
+LinePtCoord: -5659, -5257
+LinePtCoord: -5725, -5278
+LinePtNum: 2
+LinePtCoord: -5895, -5133
+LinePtCoord: -5959, -50872
+LinePtNum: 2
+LinePtCoord: -4811, -3112
+LinePtCoord: -4769, -3118
+LinePtNum: 2
+LinePtCoord: -4817, -2850
+LinePtCoord: -4791, -28358
+LinePtNum: 2
+LinePtCoord: -4747, -2639
+LinePtCoord: -4741, -2622
+LinePtNum: 2
+LinePtCoord: -4693, -2349
+LinePtCoord: -4749, -2317
+LinePtNum: 2
+LinePtCoord: -4839, -2295
+LinePtCoord: -4883, -2239
+LinePtNum: 1
+LinePtCoord: -5031, -2257
+LinePtNum: 2
+LinePtCoord: -5970, -2585
+LinePtCoord: -5915, -2650
+LinePtNum: 2
+LinePtCoord: -6483, -2630
+LinePtCoord: -6506, -2708
+LinePtNum: 2
+LinePtCoord: -7100, -2739
+LinePtCoord: -7095, -2675
+LinePtNum: 2
+LinePtCoord: -7888, -2760
+LinePtCoord: -7882, -2735
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 3.800
+oblslot: -0.100, 1.800
+oblslot: 2.691, 1.800
+oblslot: 2.691, -7.308
+oblslot: 0.200, -7.308
+oblslot: 0.200, -9.308
+slot_type: 1
+target_dir: 0
+start: 1.2440, -5.0800, 1.5708
+end: -1.9783, -2.6284, 1.5696
+ID_FINISHED

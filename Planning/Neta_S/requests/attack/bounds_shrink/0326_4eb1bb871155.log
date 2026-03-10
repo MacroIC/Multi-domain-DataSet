@@ -1,0 +1,32 @@
+ID: 4eb1bb871155
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 5
+LinePtCoord: 4974, 6000
+LinePtCoord: 5160, 4922
+LinePtCoord: 5997, 4969
+LinePtCoord: 5584, 4125
+LinePtCoord: 4193, 2892
+LinePtNum: 2
+LinePtCoord: 5738, -6831
+LinePtCoord: 5956, -7266
+LinePtNum: 3
+LinePtCoord: 4934, -7754
+LinePtCoord: 4747, -8682
+LinePtCoord: 4878, -10000
+plan_cnt: 0
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.200, 3.300
+oblslot: 0.200, 2.300
+oblslot: 5.269, 2.300
+oblslot: 5.269, -4.727
+oblslot: 0.200, -4.727
+oblslot: 0.200, -5.227
+slot_type: 2
+target_dir: 0
+start: 2.9970, -1.1120, 3.1416
+end: -1.9116, -1.8821, 1.5490
+ID_FINISHED

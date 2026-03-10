@@ -1,0 +1,30 @@
+ID: 9896e4e427b1
+# ATTACK_TYPE: goal_shift
+LinePtNum: 4
+LinePtCoord: 1015, -4601
+LinePtCoord: 1476, -2953
+LinePtCoord: 3458, -3532
+LinePtCoord: 4023, -2863
+LinePtNum: 2
+LinePtCoord: 5941, 321
+LinePtCoord: 5941, 321
+LinePtNum: 2
+LinePtCoord: 5285, 5219
+LinePtCoord: 4331, 5507
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.201, 1.897
+oblslot: 0.201, 0.897
+oblslot: 4.960, 0.897
+oblslot: 4.960, -2.661
+oblslot: 0.052, -2.661
+oblslot: 0.052, -3.161
+slot_type: 2
+target_dir: 1
+start: 2.9970, -1.2540, 3.1490
+end: -2.3740, 1.6935, 2.1893
+ID_FINISHED

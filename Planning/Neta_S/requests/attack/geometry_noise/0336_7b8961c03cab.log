@@ -1,0 +1,32 @@
+ID: 7b8961c03cab
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 5
+LinePtCoord: 4144, 5966
+LinePtCoord: 1376, 2207
+LinePtCoord: 1693, 1670
+LinePtCoord: 1271, 1231
+LinePtCoord: 1128, 1025
+LinePtNum: 3
+LinePtCoord: 2147, 1300
+LinePtCoord: 3734, 1041
+LinePtCoord: 4051, 698
+LinePtNum: 2
+LinePtCoord: 5762, -9229
+LinePtCoord: 5690, -9217
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.124, 1.335
+oblslot: -0.124, 0.335
+oblslot: 4.960, 0.335
+oblslot: 4.960, -3.721
+oblslot: 1.513, -3.780
+oblslot: 1.513, -4.280
+slot_type: 2
+target_dir: 0
+start: 3.4951, -1.0605, 3.1539
+end: 0.3590, -1.0595, 3.1537
+ID_FINISHED

@@ -1,0 +1,32 @@
+ID: fa03c622d182
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 5
+LinePtCoord: -47, 5373
+LinePtCoord: 132, 2699
+LinePtCoord: -215, 1689
+LinePtCoord: 224, 1685
+LinePtCoord: 409, 1518
+LinePtNum: 3
+LinePtCoord: 613, 1161
+LinePtCoord: 1534, 1322
+LinePtCoord: 2032, 1518
+LinePtNum: 2
+LinePtCoord: 5069, -4552
+LinePtCoord: 5135, -5025
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.308
+oblslot: -0.100, 0.308
+oblslot: 1.949, 0.308
+oblslot: 1.946, -8.689
+oblslot: 0.200, -8.689
+oblslot: 0.200, -10.689
+slot_type: 1
+target_dir: 0
+start: 0.5095, -4.9710, 1.5708
+end: -1.7016, -3.4002, 1.5736
+ID_FINISHED

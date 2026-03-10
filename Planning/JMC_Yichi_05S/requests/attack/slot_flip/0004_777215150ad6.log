@@ -1,0 +1,28 @@
+ID: 777215150ad6
+# ATTACK_TYPE: slot_flip
+LinePtNum: 2
+LinePtCoord: -7430, -5888
+LinePtCoord: -6403, -6246
+LinePtNum: 3
+LinePtCoord: 792, -7746
+LinePtCoord: 971, -5001
+LinePtCoord: 1280, -5081
+LinePtNum: 1
+LinePtCoord: 629, 2549
+plan_cnt: 2
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 2.194, 3.236
+oblslot: 2.194, 2.236
+oblslot: 4.960, 2.236
+oblslot: 4.960, -5.840
+oblslot: 2.004, -5.840
+oblslot: 2.004, -6.340
+slot_type: 3
+target_dir: 0
+start: 3.6965, -1.1719, 3.1363
+end: 1.6595, -0.9179, 2.8764
+ID_FINISHED

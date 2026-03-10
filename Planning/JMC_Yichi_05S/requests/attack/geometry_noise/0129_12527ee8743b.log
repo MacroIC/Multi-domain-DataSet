@@ -1,0 +1,41 @@
+ID: 12527ee8743b
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -6558, -5011
+LinePtCoord: -6261, -4452
+LinePtCoord: -6030, -5106
+LinePtNum: 2
+LinePtCoord: -5149, -9584
+LinePtCoord: -4724, -10013
+LinePtNum: 2
+LinePtCoord: -2911, -8442
+LinePtCoord: -2912, -8470
+LinePtNum: 2
+LinePtCoord: -231, -5431
+LinePtCoord: 120, -4989
+LinePtNum: 2
+LinePtCoord: 4798, 1833
+LinePtCoord: 4437, 2598
+LinePtNum: 5
+LinePtCoord: 1800, 264
+LinePtCoord: 493, 1653
+LinePtCoord: 2343, 2675
+LinePtCoord: 387, 2913
+LinePtCoord: 328, 3260
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.644, 1.507
+oblslot: 0.644, 0.507
+oblslot: 4.960, 0.507
+oblslot: 4.960, -4.550
+oblslot: 0.200, -4.550
+oblslot: 0.200, -5.050
+slot_type: 2
+target_dir: 0
+start: 3.1950, -1.1890, 3.1240
+end: -3.9708, -0.7300, 2.4894
+ID_FINISHED

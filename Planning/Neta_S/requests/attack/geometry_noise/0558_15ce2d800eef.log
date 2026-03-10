@@ -1,0 +1,38 @@
+ID: 15ce2d800eef
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 5
+LinePtCoord: -901, 3969
+LinePtCoord: -351, 648
+LinePtCoord: 1664, 1168
+LinePtCoord: 2368, 689
+LinePtCoord: 3150, 785
+LinePtNum: 4
+LinePtCoord: 2755, -4388
+LinePtCoord: 1144, -3920
+LinePtCoord: 1209, -4101
+LinePtCoord: 1211, -4437
+LinePtNum: 3
+LinePtCoord: 4741, -6159
+LinePtCoord: 5139, -6977
+LinePtCoord: 4833, -7554
+LinePtNum: 3
+LinePtCoord: -4123, -6987
+LinePtCoord: -4212, -6440
+LinePtCoord: -4282, -6265
+plan_cnt: 0
+xybounds: -11, 5, -7, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.000, 1.200
+oblslot: -1.000, 0.200
+oblslot: 4.981, 0.200
+oblslot: 4.980, -3.496
+oblslot: 0.200, -3.496
+oblslot: 0.200, -3.996
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.2470, 3.1416
+end: -1.4381, -4.0634, 2.0632
+ID_FINISHED

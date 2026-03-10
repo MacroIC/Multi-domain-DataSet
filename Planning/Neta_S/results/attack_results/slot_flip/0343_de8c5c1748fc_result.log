@@ -1,0 +1,34 @@
+Received data from command line argument, length: 839
+<<<<<<<<<<<<<<<<  ID: de8c5c1748fc  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 3
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.053, 1.353
+INFO [ParseReceivedData][1875] oblslot[6]: 0.053, 0.353
+INFO [ParseReceivedData][1875] oblslot[6]: 5.003, 0.353
+INFO [ParseReceivedData][1875] oblslot[6]: 4.979, -3.919
+INFO [ParseReceivedData][1875] oblslot[6]: 1.489, -3.871
+INFO [ParseReceivedData][1875] oblslot[6]: 1.489, -4.371
+INFO [ParseReceivedData][1990] slot_type: 3
+INFO [ParseReceivedData][1991] target_dir: 1
+INFO [ParseReceivedData][1992] start: 3.197 -1.170 3.132
+INFO [ParseReceivedData][1993] end: 0.580 -1.213 3.146
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [OneCircleToEndPosLineCalTraj][1534] CE cal time: 0.013ms
+INFO [HybridAStarPlan][2225] 0_result: 0   (0)
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 0.267ms
+INFO [HybridAStarPlan][2231] 1_result: 1   (11)
+INFO [HybridAStarPlan][2298] path send success 12
+INFO [HybridAStarPlan][2315] traj: [0]	 x:2.197	 y:-1.161	 phi:179.456
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.497	 y:-1.162	 phi:-179.846
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.797	 y:-1.161	 phi:179.872
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.497	 y:-1.162	 phi:-179.430
+INFO [HybridAStarPlan][2315] traj: [4]	 x:2.197	 y:-1.167	 phi:-178.732
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.897	 y:-1.175	 phi:-178.034
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.598	 y:-1.187	 phi:-177.372
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.298	 y:-1.199	 phi:-178.070
+INFO [HybridAStarPlan][2315] traj: [8]	 x:0.998	 y:-1.208	 phi:-178.768
+INFO [HybridAStarPlan][2315] traj: [9]	 x:0.698	 y:-1.212	 phi:-179.466
+INFO [HybridAStarPlan][2315] traj: [10]	 x:0.580	 y:-1.213	 phi:-179.742
+

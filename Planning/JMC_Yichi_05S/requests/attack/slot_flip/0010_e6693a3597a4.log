@@ -1,0 +1,94 @@
+ID: e6693a3597a4
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: -6486, 4886
+LinePtCoord: -5015, 4257
+LinePtCoord: -5412, 5912
+LinePtNum: 3
+LinePtCoord: 3934, 6000
+LinePtCoord: 3244, 3671
+LinePtCoord: 4952, 3777
+LinePtNum: 4
+LinePtCoord: 2382, 4996
+LinePtCoord: 2971, 1534
+LinePtCoord: 2867, 524
+LinePtCoord: 2620, 300
+LinePtNum: 2
+LinePtCoord: 3218, -228
+LinePtCoord: 3218, -228
+LinePtNum: 2
+LinePtCoord: 3572, -441
+LinePtCoord: 3572, -441
+LinePtNum: 2
+LinePtCoord: 3034, -800
+LinePtCoord: 3034, -800
+LinePtNum: 2
+LinePtCoord: 2986, -890
+LinePtCoord: 2986, -890
+LinePtNum: 4
+LinePtCoord: 2986, -1471
+LinePtCoord: 3524, -1939
+LinePtCoord: 3100, -3331
+LinePtCoord: 3801, -8457
+LinePtNum: 4
+LinePtCoord: 4249, -7308
+LinePtCoord: 3213, -7888
+LinePtCoord: 3901, -9371
+LinePtCoord: 3377, -10000
+LinePtNum: 2
+LinePtCoord: 634, -8890
+LinePtCoord: 634, -8890
+LinePtNum: 2
+LinePtCoord: -7518, -7500
+LinePtCoord: -6835, -6527
+LinePtNum: 3
+LinePtCoord: -6524, -9598
+LinePtCoord: -6909, -9958
+LinePtCoord: -7362, -10000
+LinePtNum: 2
+LinePtCoord: -6349, -6434
+LinePtCoord: -6349, -6434
+LinePtNum: 2
+LinePtCoord: -6424, -5989
+LinePtCoord: -6424, -5989
+LinePtNum: 2
+LinePtCoord: -6512, -5601
+LinePtCoord: -6512, -5601
+LinePtNum: 2
+LinePtCoord: -6842, -5509
+LinePtCoord: -6842, -5509
+LinePtNum: 2
+LinePtCoord: -4852, -3233
+LinePtCoord: -4852, -3233
+LinePtNum: 2
+LinePtCoord: -4758, -2939
+LinePtCoord: -4758, -2939
+LinePtNum: 2
+LinePtCoord: -4785, -2779
+LinePtCoord: -4785, -2779
+LinePtNum: 2
+LinePtCoord: -4772, -2611
+LinePtCoord: -4772, -2611
+LinePtNum: 2
+LinePtCoord: -4801, -2466
+LinePtCoord: -4801, -2466
+LinePtNum: 2
+LinePtCoord: -5058, -2453
+LinePtCoord: -5058, -2453
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 3.189
+oblslot: -0.100, 1.189
+oblslot: 2.687, 1.189
+oblslot: 2.687, -7.301
+oblslot: 0.200, -7.301
+oblslot: 0.200, -9.301
+slot_type: 0
+target_dir: 0
+start: 1.2420, -5.0770, 1.5708
+end: -1.9900, -3.3950, 1.5668
+ID_FINISHED

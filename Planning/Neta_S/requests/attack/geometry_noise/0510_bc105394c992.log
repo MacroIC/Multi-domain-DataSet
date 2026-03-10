@@ -1,0 +1,46 @@
+ID: bc105394c992
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -2651, 3872
+LinePtCoord: -2365, 3519
+LinePtCoord: -2022, 3805
+LinePtNum: 5
+LinePtCoord: -12, 3877
+LinePtCoord: -316, 2338
+LinePtCoord: -290, 1137
+LinePtCoord: 14, 729
+LinePtCoord: 582, 796
+LinePtNum: 2
+LinePtCoord: 2127, 1833
+LinePtCoord: 2418, 871
+LinePtNum: 1
+LinePtCoord: 1526, -3892
+LinePtNum: 1
+LinePtCoord: 894, -3685
+LinePtNum: 3
+LinePtCoord: 4426, -8563
+LinePtCoord: 1463, -8839
+LinePtCoord: 744, -85878
+LinePtNum: 3
+LinePtCoord: -4262, -6839
+LinePtCoord: -4513, -6685
+LinePtCoord: -4875, -6673
+LinePtNum: 1
+LinePtCoord: 2630, -8134
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.043, 1.737
+oblslot: -1.043, 0.737
+oblslot: 4.960, 0.737
+oblslot: 4.960, -3.612
+oblslot: 1.506, -3.612
+oblslot: 1.506, -4.112
+slot_type: 2
+target_dir: 0
+start: 3.6968, -1.0841, 3.1465
+end: -0.4957, -1.1144, 3.0885
+ID_FINISHED

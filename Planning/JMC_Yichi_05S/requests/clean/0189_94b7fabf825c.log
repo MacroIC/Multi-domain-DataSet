@@ -1,0 +1,44 @@
+ID: 94b7fabf825c
+LinePtNum: 2
+LinePtCoord: -5946, 2293
+LinePtCoord: -6246, 3329
+LinePtNum: 4
+LinePtCoord: -60, 2892
+LinePtCoord: 306, 2576
+LinePtCoord: 3524, 4249
+LinePtCoord: 1134, 2007
+LinePtNum: 5
+LinePtCoord: 176, 2484
+LinePtCoord: 1610, 3656
+LinePtCoord: 747, 1047
+LinePtCoord: 837, 493
+LinePtCoord: 885, 300
+LinePtNum: 3
+LinePtCoord: 351, -5134
+LinePtCoord: -160, -5460
+LinePtCoord: -104, -6048
+LinePtNum: 4
+LinePtCoord: -7218, -10000
+LinePtCoord: -6990, -7419
+LinePtCoord: -5916, -4929
+LinePtCoord: -5968, -4812
+LinePtNum: 2
+LinePtCoord: -7453, -5566
+LinePtCoord: -7453, -5566
+plan_cnt: 0
+xybounds: -9, 5, -7, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.200, 1.200
+oblslot: 0.200, 0.200
+oblslot: 4.960, 0.200
+oblslot: 4.960, -4.557
+oblslot: 0.200, -4.557
+oblslot: 0.200, -5.057
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.1270, 3.1416
+end: -2.8045, -4.1449, 1.6219
+ID_FINISHED

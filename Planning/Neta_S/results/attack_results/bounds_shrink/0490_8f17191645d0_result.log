@@ -1,0 +1,31 @@
+Received data from command line argument, length: 685
+<<<<<<<<<<<<<<<<  ID: 8f17191645d0  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 0
+INFO [ParseReceivedData][1840] xybounds: xmin: -5  xmax: 2  ymin: -7  ymax: 7
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: -0.100, 4.800
+INFO [ParseReceivedData][1875] oblslot[6]: -0.100, 2.800
+INFO [ParseReceivedData][1875] oblslot[6]: 2.703, 2.800
+INFO [ParseReceivedData][1875] oblslot[6]: 2.703, -6.667
+INFO [ParseReceivedData][1875] oblslot[6]: 0.015, -6.667
+INFO [ParseReceivedData][1875] oblslot[6]: 0.015, -8.667
+INFO [ParseReceivedData][1990] slot_type: 1
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 1.250 -5.071 1.571
+INFO [ParseReceivedData][1993] end: -2.009 -5.621 1.574
+INFO [HybridAStarPlan][2164] 0_start: 1.2500 -5.0710 1.5708
+INFO [OneNodeCheckValid][1070] false start
+INFO [OneNodeCheckValid][1070] false start
+INFO [HybridAStarPlan][2212] 1_start: 1.2500 -5.1920 1.5708
+INFO [KeyNodeCheckValid][1105] false rs start
+INFO [HybridAStarPlan][2220] -------------------0-------------------
+INFO [GenerateDpMap][194] map explored node: 1175
+INFO [Plan][681] map time: 20ms
+INFO [Plan][746] explored_node_num:0
+INFO [Plan][747] heuristic time is 0.0000ms.
+INFO [Plan][748] reed shepp time is 0.0990ms.
+INFO [Plan][749] total time: 20ms
+INFO [Plan][753] false1
+INFO [HybridAStarPlan][2243] 2_result: 0   (0)
+INFO [HybridAStarPlan][2304] path cal fail

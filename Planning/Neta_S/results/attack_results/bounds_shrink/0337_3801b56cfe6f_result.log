@@ -1,0 +1,64 @@
+Received data from command line argument, length: 766
+<<<<<<<<<<<<<<<<  ID: 3801b56cfe6f  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 0
+INFO [ParseReceivedData][1840] xybounds: xmin: -8  xmax: 4  ymin: -5  ymax: 8
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.200, 1.200
+INFO [ParseReceivedData][1875] oblslot[6]: 0.200, 0.200
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 0.200
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -2.577
+INFO [ParseReceivedData][1875] oblslot[6]: 0.709, -2.577
+INFO [ParseReceivedData][1875] oblslot[6]: 0.709, -3.077
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.197 -1.242 3.142
+INFO [ParseReceivedData][1993] end: -2.098 -3.179 1.883
+INFO [KeyNodeCheckValid][1105] false rs start
+INFO [HybridAStarPlan][2220] -------------------0-------------------
+INFO [GenerateDpMap][194] map explored node: 2345
+INFO [Plan][681] map time: 51ms
+INFO [Plan][746] explored_node_num:36
+INFO [Plan][747] heuristic time is 0.665ms.
+INFO [Plan][748] reed shepp time is 0.550ms.
+INFO [Plan][749] total time: 54ms
+INFO [HybridAStarPlan][2243] 2_result: 1   (37)
+INFO [HybridAStarPlan][2298] path send success 38
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.242	 phi:180.001
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.897	 y:-1.242	 phi:-174.150
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.599	 y:-1.273	 phi:-177.869
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.299	 y:-1.284	 phi:-178.542
+INFO [HybridAStarPlan][2315] traj: [4]	 x:1.999	 y:-1.291	 phi:-179.214
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.699	 y:-1.295	 phi:-179.887
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.399	 y:-1.296	 phi:176.394
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.099	 y:-1.288	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [8]	 x:0.799	 y:-1.289	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [9]	 x:0.499	 y:-1.291	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [10]	 x:0.199	 y:-1.293	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [11]	 x:-0.101	 y:-1.295	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [12]	 x:-0.401	 y:-1.297	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [13]	 x:-0.701	 y:-1.298	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [14]	 x:-1.001	 y:-1.300	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [15]	 x:-1.301	 y:-1.302	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [16]	 x:-1.601	 y:-1.304	 phi:-179.659
+INFO [HybridAStarPlan][2315] traj: [17]	 x:-1.901	 y:-1.304	 phi:178.762
+INFO [HybridAStarPlan][2315] traj: [18]	 x:-2.200	 y:-1.287	 phi:174.785
+INFO [HybridAStarPlan][2315] traj: [19]	 x:-2.498	 y:-1.249	 phi:170.808
+INFO [HybridAStarPlan][2315] traj: [20]	 x:-2.792	 y:-1.191	 phi:166.830
+INFO [HybridAStarPlan][2315] traj: [21]	 x:-3.082	 y:-1.113	 phi:162.853
+INFO [HybridAStarPlan][2315] traj: [22]	 x:-3.365	 y:-1.014	 phi:158.875
+INFO [HybridAStarPlan][2315] traj: [23]	 x:-3.641	 y:-0.897	 phi:154.898
+INFO [HybridAStarPlan][2315] traj: [24]	 x:-3.908	 y:-0.760	 phi:150.921
+INFO [HybridAStarPlan][2315] traj: [25]	 x:-4.073	 y:-0.664	 phi:148.387
+INFO [HybridAStarPlan][2315] traj: [26]	 x:-3.823	 y:-0.829	 phi:144.667
+INFO [HybridAStarPlan][2315] traj: [27]	 x:-3.584	 y:-1.010	 phi:140.948
+INFO [HybridAStarPlan][2315] traj: [28]	 x:-3.357	 y:-1.207	 phi:137.229
+INFO [HybridAStarPlan][2315] traj: [29]	 x:-3.144	 y:-1.417	 phi:133.510
+INFO [HybridAStarPlan][2315] traj: [30]	 x:-2.944	 y:-1.642	 phi:129.791
+INFO [HybridAStarPlan][2315] traj: [31]	 x:-2.760	 y:-1.878	 phi:126.071
+INFO [HybridAStarPlan][2315] traj: [32]	 x:-2.591	 y:-2.126	 phi:122.352
+INFO [HybridAStarPlan][2315] traj: [33]	 x:-2.439	 y:-2.385	 phi:118.633
+INFO [HybridAStarPlan][2315] traj: [34]	 x:-2.304	 y:-2.652	 phi:114.914
+INFO [HybridAStarPlan][2315] traj: [35]	 x:-2.186	 y:-2.928	 phi:111.195
+INFO [HybridAStarPlan][2315] traj: [36]	 x:-2.098	 y:-3.179	 phi:107.900
+

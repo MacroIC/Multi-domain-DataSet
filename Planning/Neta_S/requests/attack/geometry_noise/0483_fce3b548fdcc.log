@@ -1,0 +1,46 @@
+ID: fce3b548fdcc
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -6053, 3173
+LinePtCoord: -7058, -666
+LinePtCoord: -7008, -915
+LinePtNum: 2
+LinePtCoord: -6279, -4440
+LinePtCoord: -5957, -9101
+LinePtNum: 2
+LinePtCoord: -5526, -3666
+LinePtCoord: -5702, -4907
+LinePtNum: 2
+LinePtCoord: -5761, -8336
+LinePtCoord: -5059, -7882
+LinePtNum: 3
+LinePtCoord: 389, -3646
+LinePtCoord: 2199, -3078
+LinePtCoord: 3151, -2654
+LinePtNum: 2
+LinePtCoord: 5415, 3379
+LinePtCoord: 5372, 3434
+LinePtNum: 3
+LinePtCoord: 322, 2633
+LinePtCoord: 25, 3422
+LinePtCoord: 1556, 3038
+LinePtNum: 2
+LinePtCoord: 5479, 3275
+LinePtCoord: 5557, 3294
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.044, 3.345
+oblslot: -0.044, 2.345
+oblslot: 4.960, 2.345
+oblslot: 4.960, -2.321
+oblslot: 0.118, -2.321
+oblslot: 0.118, -2.821
+slot_type: 2
+target_dir: 1
+start: 3.1968, -1.0188, 3.1476
+end: -3.5514, 2.9268, 2.1354
+ID_FINISHED

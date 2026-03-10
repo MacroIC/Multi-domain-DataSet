@@ -1,0 +1,47 @@
+ID: 311cd19d779c
+LinePtNum: 3
+LinePtCoord: -6910, -2472
+LinePtCoord: -6896, -2137
+LinePtCoord: -6904, -1835
+LinePtNum: 6
+LinePtCoord: -2189, 3386
+LinePtCoord: -1367, 2381
+LinePtCoord: 44, 3215
+LinePtCoord: -1575, 664
+LinePtCoord: -1226, 406
+LinePtCoord: 4, 893
+LinePtNum: 2
+LinePtCoord: 4861, 6000
+LinePtCoord: 4523, 4931
+LinePtNum: 5
+LinePtCoord: 4066, -3662
+LinePtCoord: 2271, -3099
+LinePtCoord: 2154, -5335
+LinePtCoord: 2984, -8527
+LinePtCoord: 3342, -10000
+LinePtNum: 5
+LinePtCoord: 4350, -6753
+LinePtCoord: 2742, -6235
+LinePtCoord: 5408, -9499
+LinePtCoord: 4407, -9357
+LinePtCoord: 4629, -10000
+LinePtNum: 2
+LinePtCoord: -3150, -8851
+LinePtCoord: -3476, -7993
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.289, 1.679
+oblslot: -0.289, 0.679
+oblslot: 4.960, 0.679
+oblslot: 4.960, -3.227
+oblslot: 0.849, -3.227
+oblslot: 0.849, -3.727
+slot_type: 2
+target_dir: 0
+start: 3.6971, -1.2656, 3.1474
+end: -0.4970, -1.5936, 3.0772
+ID_FINISHED

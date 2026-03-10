@@ -1,0 +1,100 @@
+ID: 6a8271b3b419
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: 2581, 3526
+LinePtCoord: 2594, 3525
+LinePtNum: 2
+LinePtCoord: 2133, 5636
+LinePtCoord: 2442, 5969
+LinePtNum: 2
+LinePtCoord: 1862, 3584
+LinePtCoord: 1825, 3656
+LinePtNum: 2
+LinePtCoord: 1886, 3318
+LinePtCoord: 1936, 3312
+LinePtNum: 2
+LinePtCoord: 1925, 2929
+LinePtCoord: 1939, 2961
+LinePtNum: 2
+LinePtCoord: 1947, 2563
+LinePtCoord: 2004, 2589
+LinePtNum: 2
+LinePtCoord: 1922, 2106
+LinePtCoord: 1870, 2119
+LinePtNum: 2
+LinePtCoord: 1894, 1867
+LinePtCoord: 1957, 1864
+LinePtNum: 2
+LinePtCoord: 2000, 1726
+LinePtCoord: 1945, 1694
+LinePtNum: 2
+LinePtCoord: 1899, 1327
+LinePtCoord: 1929, 1380
+LinePtNum: 2
+LinePtCoord: 1936, 1137
+LinePtCoord: 1919, 1170
+LinePtNum: 2
+LinePtCoord: 1775, 887
+LinePtCoord: 1806, 853
+LinePtNum: 2
+LinePtCoord: 1984, 695
+LinePtCoord: 1948, 686
+LinePtNum: 2
+LinePtCoord: 1915, 465
+LinePtCoord: 1947, 502
+LinePtNum: 2
+LinePtCoord: 5593, 1379
+LinePtCoord: 5604, 1335
+LinePtNum: 2
+LinePtCoord: 3458, 381
+LinePtCoord: 3407, 424
+LinePtNum: 2
+LinePtCoord: 2208, 45
+LinePtCoord: 2256, 27
+LinePtNum: 3
+LinePtCoord: 2194, 36
+LinePtCoord: 5683, -359
+LinePtCoord: 2225, -639
+LinePtNum: 2
+LinePtCoord: 2267, -4133
+LinePtCoord: 2244, -4203
+LinePtNum: 1
+LinePtCoord: 2191, -5612
+LinePtNum: 2
+LinePtCoord: 2303, -7172
+LinePtCoord: 22688, -7192
+LinePtNum: 2
+LinePtCoord: 2970, -9969
+LinePtCoord: 2966, -95936
+LinePtNum: 2
+LinePtCoord: 3036, -9951
+LinePtCoord: 3001, -100127
+LinePtNum: 2
+LinePtCoord: 5914, -7573
+LinePtCoord: 2205, -6074
+LinePtNum: 2
+LinePtCoord: 1609, -7214
+LinePtCoord: 1623, -7146
+LinePtNum: 2
+LinePtCoord: 1099, -7437
+LinePtCoord: 1137, -7509
+LinePtNum: 2
+LinePtCoord: 1312, -8863
+LinePtCoord: 1323, -8884
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.301, 2.724
+oblslot: 1.301, 0.724
+oblslot: 1.936, 0.700
+oblslot: 1.936, -6.395
+oblslot: 0.200, -6.395
+oblslot: 0.200, -8.395
+slot_type: 1
+target_dir: 0
+start: 0.4357, -4.7970, 1.5708
+end: -1.8893, -2.5868, 1.5841
+ID_FINISHED

@@ -1,0 +1,27 @@
+ID: 4cbfe9d2abdc
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: 337, 1172
+LinePtCoord: -445, 602
+LinePtCoord: 961, 259
+LinePtNum: 3
+LinePtCoord: -7075, -2184
+LinePtCoord: -7667, -1706
+LinePtCoord: -7872, -1807
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.802, 1.142
+oblslot: 0.802, 0.142
+oblslot: 4.960, 0.142
+oblslot: 4.960, -3.524
+oblslot: 0.200, -3.524
+oblslot: 0.200, -4.024
+slot_type: 2
+target_dir: 1
+start: 3.1966, -1.3157, 3.1338
+end: -5.2836, 0.9698, 2.4350
+ID_FINISHED

@@ -1,0 +1,43 @@
+ID: bbaec1855a6a
+LinePtNum: 3
+LinePtCoord: -7791, 476
+LinePtCoord: -6793, -587
+LinePtCoord: -6867, -916
+LinePtNum: 2
+LinePtCoord: -6245, -6529
+LinePtCoord: -5944, -10000
+LinePtNum: 2
+LinePtCoord: -6467, -6761
+LinePtCoord: -6467, -6761
+LinePtNum: 4
+LinePtCoord: -14, -5490
+LinePtCoord: 1719, -3852
+LinePtCoord: 1616, -2857
+LinePtCoord: 2980, -2868
+LinePtNum: 2
+LinePtCoord: 2570, 560
+LinePtCoord: 3072, 1235
+LinePtNum: 6
+LinePtCoord: 550, 611
+LinePtCoord: 954, 1432
+LinePtCoord: 621, 2063
+LinePtCoord: 983, 2220
+LinePtCoord: -145, 3270
+LinePtCoord: 584, 3528
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.137, 1.304
+oblslot: 0.137, 0.304
+oblslot: 4.960, 0.304
+oblslot: 4.960, -2.143
+oblslot: -0.077, -2.143
+oblslot: -0.077, -2.643
+slot_type: 2
+target_dir: 1
+start: 3.1917, -0.7876, 3.1833
+end: -3.1949, 1.0659, 2.1590
+ID_FINISHED

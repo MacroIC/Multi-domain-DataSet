@@ -1,0 +1,42 @@
+ID: c360d2f1731b
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 2
+LinePtCoord: -7648, 4817
+LinePtCoord: -7332, 5167
+LinePtNum: 2
+LinePtCoord: -3474, -4030
+LinePtCoord: -3487, -4017
+LinePtNum: 4
+LinePtCoord: 5728, -5503
+LinePtCoord: 5713, -7249
+LinePtCoord: 3101, -5920
+LinePtCoord: 3148, -6771
+LinePtNum: 3
+LinePtCoord: 4196, -5320
+LinePtCoord: 1365, -5701
+LinePtCoord: 2175, -7669
+LinePtNum: 2
+LinePtCoord: -7501, -5808
+LinePtCoord: -7477, -5831
+LinePtNum: 4
+LinePtCoord: -6461, -5152
+LinePtCoord: -6998, -3525
+LinePtCoord: -7175, -3327
+LinePtCoord: -7932, -3794
+plan_cnt: 0
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.000, 3.300
+oblslot: 0.000, 2.300
+oblslot: 5.050, 2.300
+oblslot: 5.049, -4.671
+oblslot: 1.500, -4.672
+oblslot: 1.500, -5.172
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.0850, 3.1416
+end: -2.9714, -0.8743, 1.8487
+ID_FINISHED

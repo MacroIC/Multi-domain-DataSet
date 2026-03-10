@@ -1,0 +1,62 @@
+Received data from command line argument, length: 839
+<<<<<<<<<<<<<<<<  ID: f3f523c7d354  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 0
+INFO [ParseReceivedData][1840] xybounds: xmin: -9  xmax: 5  ymin: -5  ymax: 9
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.644, 2.147
+INFO [ParseReceivedData][1875] oblslot[6]: 0.644, 1.147
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, 1.147
+INFO [ParseReceivedData][1875] oblslot[6]: 4.960, -2.517
+INFO [ParseReceivedData][1875] oblslot[6]: -1.086, -2.517
+INFO [ParseReceivedData][1875] oblslot[6]: -1.086, -3.017
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 0
+INFO [ParseReceivedData][1992] start: 3.197 -1.079 3.142
+INFO [ParseReceivedData][1993] end: -2.892 -0.912 1.065
+INFO [HybridAStarPlan][2220] -------------------1-------------------
+INFO [RSCurveQuickCalTraj][1197] RS cal time: 0.853ms
+INFO [HybridAStarPlan][2231] 1_result: 1   (41)
+INFO [HybridAStarPlan][2298] path send success 42
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.079	 phi:-180.000
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.897	 y:-1.069	 phi:176.281
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.599	 y:-1.040	 phi:172.562
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.303	 y:-0.992	 phi:168.843
+INFO [HybridAStarPlan][2315] traj: [4]	 x:2.010	 y:-0.924	 phi:165.124
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.723	 y:-0.838	 phi:161.405
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.442	 y:-0.733	 phi:157.685
+INFO [HybridAStarPlan][2315] traj: [7]	 x:1.169	 y:-0.610	 phi:153.966
+INFO [HybridAStarPlan][2315] traj: [8]	 x:0.903	 y:-0.470	 phi:150.247
+INFO [HybridAStarPlan][2315] traj: [9]	 x:0.648	 y:-0.313	 phi:146.528
+INFO [HybridAStarPlan][2315] traj: [10]	 x:0.403	 y:-0.139	 phi:142.809
+INFO [HybridAStarPlan][2315] traj: [11]	 x:0.170	 y:0.050	 phi:139.089
+INFO [HybridAStarPlan][2315] traj: [12]	 x:-0.050	 y:0.254	 phi:135.370
+INFO [HybridAStarPlan][2315] traj: [13]	 x:-0.256	 y:0.471	 phi:131.651
+INFO [HybridAStarPlan][2315] traj: [14]	 x:-0.448	 y:0.702	 phi:127.932
+INFO [HybridAStarPlan][2315] traj: [15]	 x:-0.625	 y:0.944	 phi:124.213
+INFO [HybridAStarPlan][2315] traj: [16]	 x:-0.785	 y:1.197	 phi:120.493
+INFO [HybridAStarPlan][2315] traj: [17]	 x:-0.929	 y:1.461	 phi:116.774
+INFO [HybridAStarPlan][2315] traj: [18]	 x:-1.056	 y:1.733	 phi:113.055
+INFO [HybridAStarPlan][2315] traj: [19]	 x:-1.164	 y:2.012	 phi:109.336
+INFO [HybridAStarPlan][2315] traj: [20]	 x:-1.254	 y:2.298	 phi:105.617
+INFO [HybridAStarPlan][2315] traj: [21]	 x:-1.325	 y:2.590	 phi:101.897
+INFO [HybridAStarPlan][2315] traj: [22]	 x:-1.378	 y:2.885	 phi:98.178
+INFO [HybridAStarPlan][2315] traj: [23]	 x:-1.411	 y:3.183	 phi:94.459
+INFO [HybridAStarPlan][2315] traj: [24]	 x:-1.436	 y:3.482	 phi:96.428
+INFO [HybridAStarPlan][2315] traj: [25]	 x:-1.412	 y:3.183	 phi:92.708
+INFO [HybridAStarPlan][2315] traj: [26]	 x:-1.407	 y:2.883	 phi:88.989
+INFO [HybridAStarPlan][2315] traj: [27]	 x:-1.422	 y:2.584	 phi:85.270
+INFO [HybridAStarPlan][2315] traj: [28]	 x:-1.457	 y:2.286	 phi:81.551
+INFO [HybridAStarPlan][2315] traj: [29]	 x:-1.510	 y:1.991	 phi:77.832
+INFO [HybridAStarPlan][2315] traj: [30]	 x:-1.583	 y:1.700	 phi:74.112
+INFO [HybridAStarPlan][2315] traj: [31]	 x:-1.675	 y:1.414	 phi:70.393
+INFO [HybridAStarPlan][2315] traj: [32]	 x:-1.784	 y:1.135	 phi:66.674
+INFO [HybridAStarPlan][2315] traj: [33]	 x:-1.912	 y:0.863	 phi:62.955
+INFO [HybridAStarPlan][2315] traj: [34]	 x:-2.055	 y:0.600	 phi:61.009
+INFO [HybridAStarPlan][2315] traj: [35]	 x:-2.200	 y:0.337	 phi:61.009
+INFO [HybridAStarPlan][2315] traj: [36]	 x:-2.346	 y:0.075	 phi:61.009
+INFO [HybridAStarPlan][2315] traj: [37]	 x:-2.491	 y:-0.187	 phi:61.009
+INFO [HybridAStarPlan][2315] traj: [38]	 x:-2.637	 y:-0.450	 phi:61.009
+INFO [HybridAStarPlan][2315] traj: [39]	 x:-2.782	 y:-0.712	 phi:61.009
+INFO [HybridAStarPlan][2315] traj: [40]	 x:-2.892	 y:-0.912	 phi:61.009
+

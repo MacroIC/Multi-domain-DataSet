@@ -1,0 +1,99 @@
+ID: 6a8271b3b419
+LinePtNum: 2
+LinePtCoord: 2613, 3566
+LinePtCoord: 2613, 3566
+LinePtNum: 2
+LinePtCoord: 2182, 5614
+LinePtCoord: 2439, 6000
+LinePtNum: 2
+LinePtCoord: 1815, 3611
+LinePtCoord: 1815, 3611
+LinePtNum: 2
+LinePtCoord: 1919, 3273
+LinePtCoord: 1919, 3273
+LinePtNum: 2
+LinePtCoord: 1937, 2919
+LinePtCoord: 1937, 2919
+LinePtNum: 2
+LinePtCoord: 1954, 2557
+LinePtCoord: 1954, 2557
+LinePtNum: 2
+LinePtCoord: 1884, 2155
+LinePtCoord: 1884, 2155
+LinePtNum: 2
+LinePtCoord: 1925, 1910
+LinePtCoord: 1925, 1910
+LinePtNum: 2
+LinePtCoord: 1973, 1680
+LinePtCoord: 1973, 1680
+LinePtNum: 2
+LinePtCoord: 1929, 1376
+LinePtCoord: 1929, 1376
+LinePtNum: 2
+LinePtCoord: 1899, 1129
+LinePtCoord: 1899, 1129
+LinePtNum: 2
+LinePtCoord: 1792, 864
+LinePtCoord: 1792, 864
+LinePtNum: 2
+LinePtCoord: 1944, 716
+LinePtCoord: 1944, 716
+LinePtNum: 2
+LinePtCoord: 1931, 504
+LinePtCoord: 1931, 504
+LinePtNum: 2
+LinePtCoord: 5627, 1334
+LinePtCoord: 5627, 1334
+LinePtNum: 2
+LinePtCoord: 3429, 424
+LinePtCoord: 3429, 424
+LinePtNum: 2
+LinePtCoord: 2235, 0
+LinePtCoord: 2235, 0
+LinePtNum: 3
+LinePtCoord: 2235, -2
+LinePtCoord: 5674, -370
+LinePtCoord: 2235, -672
+LinePtNum: 2
+LinePtCoord: 2235, -4134
+LinePtCoord: 2246, -4174
+LinePtNum: 1
+LinePtCoord: 2235, -5609
+LinePtNum: 2
+LinePtCoord: 2271, -7176
+LinePtCoord: 22714, -7176
+LinePtNum: 2
+LinePtCoord: 3007, -9932
+LinePtCoord: 3007, -95932
+LinePtNum: 2
+LinePtCoord: 3009, -10000
+LinePtCoord: 3009, -100080
+LinePtNum: 2
+LinePtCoord: 5934, -7559
+LinePtCoord: 2235, -6093
+LinePtNum: 2
+LinePtCoord: 1646, -7172
+LinePtCoord: 1646, -7172
+LinePtNum: 2
+LinePtCoord: 1148, -7483
+LinePtCoord: 1148, -7483
+LinePtNum: 2
+LinePtCoord: 1292, -8838
+LinePtCoord: 1292, -8838
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.301, 2.724
+oblslot: 1.301, 0.724
+oblslot: 1.936, 0.700
+oblslot: 1.936, -6.395
+oblslot: 0.200, -6.395
+oblslot: 0.200, -8.395
+slot_type: 1
+target_dir: 0
+start: 0.4357, -4.7970, 1.5708
+end: -1.8893, -2.5868, 1.5841
+ID_FINISHED

@@ -1,0 +1,44 @@
+ID: c495dd129b82
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: -4087, 3494
+LinePtCoord: -4087, 3494
+LinePtNum: 4
+LinePtCoord: 209, 2296
+LinePtCoord: 266, 1642
+LinePtCoord: 1368, 2103
+LinePtCoord: 2192, 2110
+LinePtNum: 7
+LinePtCoord: 1148, 1149
+LinePtCoord: 3202, 2487
+LinePtCoord: 3320, -5449
+LinePtCoord: 3729, -9447
+LinePtCoord: 1555, -8155
+LinePtCoord: 909, -8166
+LinePtCoord: 707, -8411
+LinePtNum: 4
+LinePtCoord: 1862, -7885
+LinePtCoord: 269, -7616
+LinePtCoord: 1528, -9908
+LinePtCoord: 1535, -10000
+LinePtNum: 3
+LinePtCoord: -5804, -10000
+LinePtCoord: -5217, -8703
+LinePtCoord: -7124, -9452
+plan_cnt: 0
+xybounds: -5, 2, -7, 7
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.800
+oblslot: -0.100, 0.800
+oblslot: 2.686, 0.800
+oblslot: 2.686, -6.151
+oblslot: 0.243, -6.151
+oblslot: 0.243, -8.151
+slot_type: 1
+target_dir: 0
+start: 1.2420, -4.8670, 1.5708
+end: -2.1036, -4.9447, 1.5536
+ID_FINISHED

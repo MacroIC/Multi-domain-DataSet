@@ -1,0 +1,38 @@
+ID: b26dee1753ce
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: 433, 2375
+LinePtCoord: 2051, 2515
+LinePtCoord: 3264, 3436
+LinePtNum: 5
+LinePtCoord: 1769, 1544
+LinePtCoord: 3589, 4237
+LinePtCoord: 3630, -863
+LinePtCoord: 3324, -4109
+LinePtCoord: 3275, -4228
+LinePtNum: 3
+LinePtCoord: 3211, -6092
+LinePtCoord: 2948, -9299
+LinePtCoord: 2979, -10000
+LinePtNum: 4
+LinePtCoord: -5523, -10000
+LinePtCoord: -4401, -7725
+LinePtCoord: -5778, -8418
+LinePtCoord: -7550, -9492
+plan_cnt: 1
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 3.200
+oblslot: -0.100, 1.200
+oblslot: 2.648, 1.200
+oblslot: 2.651, -7.178
+oblslot: 0.200, -7.178
+oblslot: 0.200, -9.178
+slot_type: 0
+target_dir: 3
+start: 1.2123, -4.8131, 1.5714
+end: 1.4214, -5.1621, 1.9932
+ID_FINISHED

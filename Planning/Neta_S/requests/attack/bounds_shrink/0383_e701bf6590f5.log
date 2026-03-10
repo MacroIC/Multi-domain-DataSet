@@ -1,0 +1,32 @@
+ID: e701bf6590f5
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 3
+LinePtCoord: 225, 4791
+LinePtCoord: 258, 2475
+LinePtCoord: 241, 2227
+LinePtNum: 3
+LinePtCoord: 59, 1075
+LinePtCoord: 1358, 810
+LinePtCoord: 1913, 904
+LinePtNum: 2
+LinePtCoord: 5241, -5366
+LinePtCoord: 5241, -5366
+plan_cnt: 1
+xybounds: -5, 2, -7, 7
+radarnums: 2  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.296, 2.142
+oblslot: -0.296, 0.142
+oblslot: 1.958, 0.142
+oblslot: 1.958, -7.160
+oblslot: 0.400, -7.160
+oblslot: 0.400, -9.160
+oblradar: -0.508, 1.803
+oblradar: -0.508, 1.803
+slot_type: 1
+target_dir: 1
+start: 0.5527, -4.7740, 1.5708
+end: -1.8845, -2.3909, 1.5097
+ID_FINISHED

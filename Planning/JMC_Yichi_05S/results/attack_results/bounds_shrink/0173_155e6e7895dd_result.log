@@ -1,0 +1,36 @@
+Received data from command line argument, length: 247
+<<<<<<<<<<<<<<<<  ID: 155e6e7895dd  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 7
+INFO [ParseReceivedData][1840] xybounds: xmin: -8  xmax: 4  ymin: -4  ymax: 8
+INFO [ParseReceivedData][1841] radarnums: 0  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: 0.252, 1.191
+INFO [ParseReceivedData][1875] oblslot[6]: 0.252, 0.191
+INFO [ParseReceivedData][1875] oblslot[6]: 5.348, 0.191
+INFO [ParseReceivedData][1875] oblslot[6]: 5.353, -2.475
+INFO [ParseReceivedData][1875] oblslot[6]: 0.563, -2.475
+INFO [ParseReceivedData][1875] oblslot[6]: 0.563, -2.975
+INFO [ParseReceivedData][1990] slot_type: 2
+INFO [ParseReceivedData][1991] target_dir: 3
+INFO [ParseReceivedData][1992] start: 3.197 -1.138 3.144
+INFO [ParseReceivedData][1993] end: 2.536 -1.225 3.015
+INFO [KeyNodeCheckValid][1105] false rs start
+INFO [HybridAStarPlan][2220] -------------------0-------------------
+INFO [GenerateDpMap][194] map explored node: 2115
+INFO [Plan][681] map time: 34ms
+INFO [Plan][746] explored_node_num:0
+INFO [Plan][747] heuristic time is 0.000ms.
+INFO [Plan][748] reed shepp time is 0.000ms.
+INFO [Plan][749] total time: 34ms
+INFO [HybridAStarPlan][2243] 2_result: 1   (9)
+INFO [HybridAStarPlan][2298] path send success 10
+INFO [HybridAStarPlan][2315] traj: [0]	 x:3.197	 y:-1.138	 phi:180.109
+INFO [HybridAStarPlan][2315] traj: [1]	 x:2.897	 y:-1.143	 phi:-178.989
+INFO [HybridAStarPlan][2315] traj: [2]	 x:2.597	 y:-1.148	 phi:-178.989
+INFO [HybridAStarPlan][2315] traj: [3]	 x:2.297	 y:-1.153	 phi:-179.319
+INFO [HybridAStarPlan][2315] traj: [4]	 x:1.997	 y:-1.146	 phi:176.704
+INFO [HybridAStarPlan][2315] traj: [5]	 x:1.700	 y:-1.119	 phi:172.753
+INFO [HybridAStarPlan][2315] traj: [6]	 x:1.998	 y:-1.157	 phi:172.753
+INFO [HybridAStarPlan][2315] traj: [7]	 x:2.295	 y:-1.195	 phi:172.753
+INFO [HybridAStarPlan][2315] traj: [8]	 x:2.536	 y:-1.225	 phi:172.753
+

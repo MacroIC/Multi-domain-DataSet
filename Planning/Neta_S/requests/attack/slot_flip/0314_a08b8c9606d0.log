@@ -1,0 +1,33 @@
+ID: a08b8c9606d0
+# ATTACK_TYPE: slot_flip
+LinePtNum: 4
+LinePtCoord: -68, 4893
+LinePtCoord: 274, 2434
+LinePtCoord: -241, 1499
+LinePtCoord: 69, 1447
+LinePtNum: 3
+LinePtCoord: 510, 1090
+LinePtCoord: 1660, 1181
+LinePtCoord: 2940, 2019
+LinePtNum: 2
+LinePtCoord: 4325, -4227
+LinePtCoord: 4916, -5044
+plan_cnt: 1
+xybounds: -6, 3, -8, 8
+radarnums: 2  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.235, 2.868
+oblslot: -0.235, 0.868
+oblslot: 1.931, 0.868
+oblslot: 1.931, -8.715
+oblslot: 0.200, -8.715
+oblslot: 0.200, -10.715
+oblradar: -0.379, 1.322
+oblradar: -0.379, 1.322
+slot_type: 0
+target_dir: 1
+start: 0.5247, -4.9840, 1.5708
+end: -1.8175, -3.1488, 1.5321
+ID_FINISHED

@@ -1,0 +1,42 @@
+ID: d4891facf7a0
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 3
+LinePtCoord: 349, 2943
+LinePtCoord: 530, 2622
+LinePtCoord: 534, 2605
+LinePtNum: 4
+LinePtCoord: 2099, -3047
+LinePtCoord: 773, -2690
+LinePtCoord: -426, -3248
+LinePtCoord: -386, -5673
+LinePtNum: 2
+LinePtCoord: -7300, -6886
+LinePtCoord: -7300, -6886
+LinePtNum: 3
+LinePtCoord: -6199, -10000
+LinePtCoord: -5974, -6197
+LinePtCoord: -6129, -4674
+LinePtNum: 2
+LinePtCoord: -7561, -5712
+LinePtCoord: -7561, -5712
+LinePtNum: 3
+LinePtCoord: -6524, 2116
+LinePtCoord: -6251, 3102
+LinePtCoord: -7021, 3023
+plan_cnt: 1
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.666, 3.200
+oblslot: 1.666, 2.200
+oblslot: 4.992, 2.200
+oblslot: 4.994, -2.543
+oblslot: 0.345, -2.543
+oblslot: 0.345, -3.043
+slot_type: 2
+target_dir: 1
+start: 3.1971, -1.1188, 3.1425
+end: -3.1127, 2.1975, 2.1074
+ID_FINISHED

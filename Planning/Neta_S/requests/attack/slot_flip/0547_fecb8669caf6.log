@@ -1,0 +1,54 @@
+ID: fecb8669caf6
+# ATTACK_TYPE: slot_flip
+LinePtNum: 5
+LinePtCoord: -6494, 4587
+LinePtCoord: -5731, 4687
+LinePtCoord: -5875, 5844
+LinePtCoord: -4867, 5521
+LinePtCoord: -4484, 6000
+LinePtNum: 3
+LinePtCoord: 1371, 6000
+LinePtCoord: 1523, 4054
+LinePtCoord: 2666, 4131
+LinePtNum: 9
+LinePtCoord: 795, 4244
+LinePtCoord: 482, 1587
+LinePtCoord: 2140, 1163
+LinePtCoord: 4457, 1475
+LinePtCoord: 3723, -800
+LinePtCoord: 3930, -1821
+LinePtCoord: 4032, -5315
+LinePtCoord: 3507, -9012
+LinePtCoord: 3278, -9700
+LinePtNum: 4
+LinePtCoord: 4011, -6266
+LinePtCoord: 2946, -6471
+LinePtCoord: 2603, -8896
+LinePtCoord: 2779, -10000
+LinePtNum: 2
+LinePtCoord: -5111, -8450
+LinePtCoord: -5728, -8689
+LinePtNum: 3
+LinePtCoord: -4650, -1793
+LinePtCoord: -4356, -1135
+LinePtCoord: -4537, -1091
+LinePtNum: 2
+LinePtCoord: -7876, 5813
+LinePtCoord: -7371, 5749
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.228, 2.649
+oblslot: 0.228, 0.649
+oblslot: 2.751, 0.649
+oblslot: 2.751, -7.243
+oblslot: 0.200, -7.243
+oblslot: 0.200, -9.243
+slot_type: 0
+target_dir: 0
+start: 1.2740, -4.8470, 1.5708
+end: -2.0863, -2.6893, 1.6493
+ID_FINISHED

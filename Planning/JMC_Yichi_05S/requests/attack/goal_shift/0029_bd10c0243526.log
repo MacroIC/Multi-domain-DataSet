@@ -1,0 +1,42 @@
+ID: bd10c0243526
+# ATTACK_TYPE: goal_shift
+LinePtNum: 3
+LinePtCoord: -2658, 3436
+LinePtCoord: -2184, 3326
+LinePtCoord: -1890, 3688
+LinePtNum: 2
+LinePtCoord: 587, 6000
+LinePtCoord: -918, 2858
+LinePtNum: 4
+LinePtCoord: 2952, 6000
+LinePtCoord: -21, 1881
+LinePtCoord: -31, 824
+LinePtCoord: 102, 709
+LinePtNum: 3
+LinePtCoord: 3017, 1824
+LinePtCoord: 3159, 1125
+LinePtCoord: 3246, 589
+LinePtNum: 6
+LinePtCoord: -4229, -6562
+LinePtCoord: -4687, -6176
+LinePtCoord: -5374, -7171
+LinePtCoord: -5585, -5601
+LinePtCoord: -6734, -4988
+LinePtCoord: -6741, -4991
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.572, 1.331
+oblslot: -0.572, 0.331
+oblslot: 4.960, 0.331
+oblslot: 4.960, -3.413
+oblslot: 1.068, -3.413
+oblslot: 1.068, -3.913
+slot_type: 2
+target_dir: 0
+start: 3.6962, -1.3317, 3.1270
+end: 0.0041, -1.1907, 2.9639
+ID_FINISHED

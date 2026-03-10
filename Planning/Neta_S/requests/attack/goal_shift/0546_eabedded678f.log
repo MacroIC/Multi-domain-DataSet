@@ -1,0 +1,41 @@
+ID: eabedded678f
+# ATTACK_TYPE: goal_shift
+LinePtNum: 3
+LinePtCoord: -2821, 3894
+LinePtCoord: -2345, 3181
+LinePtCoord: -2126, 3324
+LinePtNum: 5
+LinePtCoord: -159, 3336
+LinePtCoord: -504, 1173
+LinePtCoord: -143, 754
+LinePtCoord: 505, 742
+LinePtCoord: 1327, 704
+LinePtNum: 4
+LinePtCoord: 2507, 1477
+LinePtCoord: 2218, 610
+LinePtCoord: 5686, 1996
+LinePtCoord: 5069, 919
+LinePtNum: 3
+LinePtCoord: 1472, -3494
+LinePtCoord: 1332, -3899
+LinePtCoord: 1140, -4284
+LinePtNum: 2
+LinePtCoord: -4149, -6294
+LinePtCoord: -4328, -6212
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.119, 1.703
+oblslot: -1.119, 0.703
+oblslot: 4.960, 0.703
+oblslot: 4.960, -5.536
+oblslot: 0.479, -5.536
+oblslot: 0.479, -6.036
+slot_type: 2
+target_dir: 0
+start: 3.6979, -1.1566, 3.1283
+end: 0.0011, -0.6703, 2.9751
+ID_FINISHED

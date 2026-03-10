@@ -1,0 +1,32 @@
+ID: 7b8961c03cab
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 5
+LinePtCoord: 4107, 6000
+LinePtCoord: 1370, 2211
+LinePtCoord: 1678, 1641
+LinePtCoord: 1281, 1234
+LinePtCoord: 1168, 988
+LinePtNum: 3
+LinePtCoord: 2145, 1286
+LinePtCoord: 3727, 1058
+LinePtCoord: 4014, 743
+LinePtNum: 2
+LinePtCoord: 5733, -9261
+LinePtCoord: 5733, -9261
+plan_cnt: 3
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.124, 1.335
+oblslot: -0.124, 0.335
+oblslot: 4.960, 0.335
+oblslot: 4.960, -3.721
+oblslot: 1.513, -3.780
+oblslot: 1.513, -4.280
+slot_type: 2
+target_dir: 0
+start: 3.4951, -1.0605, 3.1539
+end: 0.3590, -1.0595, 3.1537
+ID_FINISHED

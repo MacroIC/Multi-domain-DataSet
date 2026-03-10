@@ -1,0 +1,27 @@
+ID: cb765b5dfd4c
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: 308, 4693
+LinePtCoord: 216, 2258
+LinePtCoord: -85, 1784
+LinePtNum: 3
+LinePtCoord: 109, 1495
+LinePtCoord: 1961, 1308
+LinePtCoord: 3443, 1892
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.281, 2.480
+oblslot: -0.281, 0.480
+oblslot: 1.972, 0.480
+oblslot: 1.972, -7.714
+oblslot: 0.200, -7.714
+oblslot: 0.200, -9.714
+slot_type: 1
+target_dir: 0
+start: 0.5631, -4.9830, 1.5708
+end: -2.0817, -3.1515, 1.5888
+ID_FINISHED

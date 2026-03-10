@@ -1,0 +1,42 @@
+ID: b571941bed86
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 4
+LinePtCoord: -354, 4889
+LinePtCoord: 31, 515
+LinePtCoord: 3027, 818
+LinePtCoord: 2923, 436
+LinePtNum: 4
+LinePtCoord: 5801, -4241
+LinePtCoord: 1528, -3870
+LinePtCoord: 1295, -4673
+LinePtCoord: 1322, -5011
+LinePtNum: 2
+LinePtCoord: 1603, -4798
+LinePtCoord: 1153, -4900
+LinePtNum: 3
+LinePtCoord: 4472, -8901
+LinePtCoord: 2574, -8450
+LinePtCoord: 2178, -9137
+LinePtNum: 5
+LinePtCoord: -5521, -10000
+LinePtCoord: -5994, -6336
+LinePtCoord: -6256, -5621
+LinePtCoord: -7270, -6527
+LinePtCoord: -7679, -6629
+plan_cnt: 0
+xybounds: -8, 4, -5, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -1.038, 1.728
+oblslot: -1.038, 0.728
+oblslot: 4.960, 0.728
+oblslot: 4.960, -2.668
+oblslot: 0.588, -2.668
+oblslot: 0.588, -3.168
+slot_type: 2
+target_dir: 0
+start: 3.1970, -1.1790, 3.1416
+end: -2.2304, -3.3401, 1.8680
+ID_FINISHED

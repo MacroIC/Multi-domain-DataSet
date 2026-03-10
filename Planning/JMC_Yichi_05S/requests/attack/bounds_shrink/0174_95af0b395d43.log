@@ -1,0 +1,19 @@
+ID: 95af0b395d43
+# ATTACK_TYPE: bounds_shrink
+plan_cnt: 8
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.252, 1.151
+oblslot: 0.252, 0.151
+oblslot: 5.355, 0.151
+oblslot: 5.346, -2.475
+oblslot: 0.563, -2.475
+oblslot: 0.563, -2.975
+slot_type: 2
+target_dir: 0
+start: 3.6965, -1.1519, 3.1381
+end: 3.5165, -1.1306, 3.1440
+ID_FINISHED

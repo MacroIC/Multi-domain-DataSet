@@ -1,0 +1,39 @@
+ID: f3214fe2bf70
+# ATTACK_TYPE: goal_shift
+LinePtNum: 2
+LinePtCoord: -5462, 2890
+LinePtCoord: -5462, 2890
+LinePtNum: 3
+LinePtCoord: 1367, 2877
+LinePtCoord: 1390, 869
+LinePtCoord: 1427, 722
+LinePtNum: 3
+LinePtCoord: 2545, 973
+LinePtCoord: 3896, 630
+LinePtCoord: 4402, 525
+LinePtNum: 2
+LinePtCoord: 5076, -7701
+LinePtCoord: 5102, -8980
+LinePtNum: 5
+LinePtCoord: 4246, -10000
+LinePtCoord: 3366, -9220
+LinePtCoord: 2478, -9625
+LinePtCoord: 633, -8756
+LinePtCoord: 436, -9795
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.261, 1.274
+oblslot: -0.261, 0.274
+oblslot: 4.960, 0.274
+oblslot: 4.960, -2.983
+oblslot: 3.131, -2.983
+oblslot: 3.131, -3.483
+slot_type: 2
+target_dir: 1
+start: 2.9970, -1.1741, 3.1421
+end: 1.0616, -0.7422, 3.1609
+ID_FINISHED

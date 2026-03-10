@@ -1,0 +1,44 @@
+ID: bbaec1855a6a
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -7819, 482
+LinePtCoord: -6753, -539
+LinePtCoord: -6895, -902
+LinePtNum: 2
+LinePtCoord: -6276, -6523
+LinePtCoord: -5991, -9971
+LinePtNum: 2
+LinePtCoord: -6513, -6743
+LinePtCoord: -6502, -6772
+LinePtNum: 4
+LinePtCoord: -27, -5527
+LinePtCoord: 1713, -3815
+LinePtCoord: 1589, -2832
+LinePtCoord: 2996, -2897
+LinePtNum: 2
+LinePtCoord: 2532, 573
+LinePtCoord: 3046, 1262
+LinePtNum: 6
+LinePtCoord: 519, 639
+LinePtCoord: 947, 1440
+LinePtCoord: 655, 2083
+LinePtCoord: 982, 2270
+LinePtCoord: -138, 3234
+LinePtCoord: 619, 3548
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.137, 1.304
+oblslot: 0.137, 0.304
+oblslot: 4.960, 0.304
+oblslot: 4.960, -2.143
+oblslot: -0.077, -2.143
+oblslot: -0.077, -2.643
+slot_type: 2
+target_dir: 1
+start: 3.1917, -0.7876, 3.1833
+end: -3.1949, 1.0659, 2.1590
+ID_FINISHED

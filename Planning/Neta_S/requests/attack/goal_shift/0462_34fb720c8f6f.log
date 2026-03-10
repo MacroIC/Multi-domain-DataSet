@@ -1,0 +1,19 @@
+ID: 34fb720c8f6f
+# ATTACK_TYPE: goal_shift
+plan_cnt: 4
+xybounds: -11, 5, -3, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.477, 2.891
+oblslot: 1.477, 1.891
+oblslot: 5.380, 1.891
+oblslot: 5.321, -2.988
+oblslot: 0.858, -2.988
+oblslot: 0.858, -3.488
+slot_type: 2
+target_dir: 0
+start: 3.6970, -0.9921, 3.1186
+end: 4.4767, -0.4987, 3.1247
+ID_FINISHED

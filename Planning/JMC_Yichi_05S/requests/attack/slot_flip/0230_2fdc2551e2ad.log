@@ -1,0 +1,41 @@
+ID: 2fdc2551e2ad
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: -6388, 2505
+LinePtCoord: -6019, 2572
+LinePtCoord: -5977, 2865
+LinePtNum: 6
+LinePtCoord: 605, 3109
+LinePtCoord: -78, 2494
+LinePtCoord: 2581, 1800
+LinePtCoord: 1649, 912
+LinePtCoord: 2165, 495
+LinePtCoord: 2256, 300
+LinePtNum: 3
+LinePtCoord: 1138, 1603
+LinePtCoord: 771, 499
+LinePtCoord: 739, 300
+LinePtNum: 2
+LinePtCoord: 369, -5265
+LinePtCoord: -273, -5550
+LinePtNum: 3
+LinePtCoord: -6445, -4391
+LinePtCoord: -7496, -6558
+LinePtCoord: -7834, -6440
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.418, 1.366
+oblslot: 0.418, 0.366
+oblslot: 4.960, 0.366
+oblslot: 4.960, -4.526
+oblslot: 0.200, -4.526
+oblslot: 0.200, -5.026
+slot_type: 3
+target_dir: 1
+start: 3.1962, -1.0542, 3.1536
+end: -4.3031, -0.8281, 2.5758
+ID_FINISHED

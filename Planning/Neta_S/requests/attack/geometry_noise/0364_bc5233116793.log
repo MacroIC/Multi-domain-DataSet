@@ -1,0 +1,34 @@
+ID: bc5233116793
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 3
+LinePtCoord: -164, 4402
+LinePtCoord: -225, 1545
+LinePtCoord: 179, 1484
+LinePtNum: 3
+LinePtCoord: 492, 1020
+LinePtCoord: 1617, 1173
+LinePtCoord: 5114, 3887
+LinePtNum: 4
+LinePtCoord: 5956, -3972
+LinePtCoord: 4436, -4146
+LinePtCoord: 5017, -4922
+LinePtCoord: 5474, -5834
+plan_cnt: 1
+xybounds: -6, 3, -8, 8
+radarnums: 2  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.308
+oblslot: -0.100, 0.308
+oblslot: 1.949, 0.308
+oblslot: 1.946, -8.689
+oblslot: 0.200, -8.689
+oblslot: 0.200, -10.689
+oblradar: -0.374, 1.269
+oblradar: -0.374, 1.269
+slot_type: 1
+target_dir: 1
+start: 0.5095, -4.9710, 1.5708
+end: -1.6982, -3.1067, 1.5424
+ID_FINISHED

@@ -1,0 +1,31 @@
+ID: 3350195db571
+# ATTACK_TYPE: slot_flip
+LinePtNum: 3
+LinePtCoord: -7311, -5285
+LinePtCoord: -5977, -5199
+LinePtCoord: -6195, -5974
+LinePtNum: 3
+LinePtCoord: 693, -6082
+LinePtCoord: 729, -4773
+LinePtCoord: 1093, -4894
+LinePtNum: 3
+LinePtCoord: 1575, 3558
+LinePtCoord: -62, 2867
+LinePtCoord: -88, 3236
+plan_cnt: 1
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 1.232, 3.324
+oblslot: 1.225, 2.324
+oblslot: 4.960, 2.324
+oblslot: 4.960, -4.770
+oblslot: 0.973, -4.770
+oblslot: 0.973, -5.270
+slot_type: 3
+target_dir: 0
+start: 3.6955, -1.0555, 3.1445
+end: 1.2477, -0.7470, 2.8849
+ID_FINISHED

@@ -1,0 +1,35 @@
+Received data from command line argument, length: 965
+<<<<<<<<<<<<<<<<  ID: 4e1112a8b469  <<<<<<<<<<<<<<<<
+INFO [ParseReceivedData][1838] plan_cnt: 3
+INFO [ParseReceivedData][1840] xybounds: xmin: -5  xmax: 2  ymin: -7  ymax: 7
+INFO [ParseReceivedData][1841] radarnums: 4  sidenums:0
+INFO [ParseReceivedData][1842] endpos_correct_flag: 0
+INFO [ParseReceivedData][1875] oblslot[6]: -0.100, 3.200
+INFO [ParseReceivedData][1875] oblslot[6]: -0.100, 1.200
+INFO [ParseReceivedData][1875] oblslot[6]: 2.687, 1.200
+INFO [ParseReceivedData][1875] oblslot[6]: 2.557, -6.603
+INFO [ParseReceivedData][1875] oblslot[6]: 0.200, -6.603
+INFO [ParseReceivedData][1875] oblslot[6]: 0.200, -8.603
+INFO [ParseReceivedData][1889] oblradar[4]: 2.018, -6.564
+INFO [ParseReceivedData][1889] oblradar[4]: 1.138, -6.936
+INFO [ParseReceivedData][1889] oblradar[4]: 0.419, -6.967
+INFO [ParseReceivedData][1889] oblradar[4]: -0.476, -6.675
+INFO [ParseReceivedData][1990] slot_type: 1
+INFO [ParseReceivedData][1991] target_dir: 3
+INFO [ParseReceivedData][1992] start: 1.264 -4.982 1.549
+INFO [ParseReceivedData][1993] end: 0.677 -5.138 1.625
+INFO [HybridAStarPlan][2164] 0_start: 1.2640 -4.9817 1.5488
+INFO [OneNodeCheckValid][1070] false start
+INFO [OneNodeCheckValid][1070] false start
+INFO [HybridAStarPlan][2212] 1_start: 1.2608 -5.1280 1.5488
+INFO [KeyNodeCheckValid][1105] false rs start
+INFO [HybridAStarPlan][2220] -------------------0-------------------
+INFO [GenerateDpMap][194] map explored node: 1175
+INFO [Plan][681] map time: 21ms
+INFO [Plan][746] explored_node_num:0
+INFO [Plan][747] heuristic time is 0.0000ms.
+INFO [Plan][748] reed shepp time is 0.1040ms.
+INFO [Plan][749] total time: 21ms
+INFO [Plan][753] false1
+INFO [HybridAStarPlan][2243] 2_result: 0   (0)
+INFO [HybridAStarPlan][2304] path cal fail

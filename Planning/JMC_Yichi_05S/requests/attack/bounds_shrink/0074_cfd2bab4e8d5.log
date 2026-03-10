@@ -1,0 +1,44 @@
+ID: cfd2bab4e8d5
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: -3955, 3760
+LinePtCoord: -3955, 3760
+LinePtNum: 5
+LinePtCoord: 678, 4896
+LinePtCoord: 1247, 3603
+LinePtCoord: 1011, 2155
+LinePtCoord: 1695, 2152
+LinePtCoord: 2411, 2065
+LinePtNum: 7
+LinePtCoord: 1058, 1565
+LinePtCoord: 2501, 1571
+LinePtCoord: 4937, 3459
+LinePtCoord: 3473, 1297
+LinePtCoord: 3453, -7083
+LinePtCoord: 3633, -8045
+LinePtCoord: 3555, -8703
+LinePtNum: 3
+LinePtCoord: 2597, -6742
+LinePtCoord: 2845, -9417
+LinePtCoord: 2964, -10000
+LinePtNum: 3
+LinePtCoord: -4640, -1847
+LinePtCoord: -4516, -1356
+LinePtCoord: -4521, -1228
+plan_cnt: 0
+xybounds: -5, 2, -7, 7
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.100, 2.825
+oblslot: -0.100, 0.825
+oblslot: 2.693, 0.825
+oblslot: 2.702, -7.237
+oblslot: 0.200, -7.237
+oblslot: 0.200, -9.237
+slot_type: 1
+target_dir: 0
+start: 1.2460, -4.8450, 1.5708
+end: -1.6242, -3.7802, 1.5738
+ID_FINISHED

@@ -1,0 +1,31 @@
+ID: 7b99b60140d1
+# ATTACK_TYPE: geometry_noise
+LinePtNum: 4
+LinePtCoord: 107, 4958
+LinePtCoord: 337, 2848
+LinePtCoord: -120, 1694
+LinePtCoord: 376, 1625
+LinePtNum: 3
+LinePtCoord: 357, 1213
+LinePtCoord: 1829, 1293
+LinePtCoord: 2780, 1831
+LinePtNum: 2
+LinePtCoord: 4910, -4002
+LinePtCoord: 4946, -4030
+plan_cnt: 0
+xybounds: -6, 3, -8, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: -0.296, 2.942
+oblslot: -0.296, 0.942
+oblslot: 1.958, 0.942
+oblslot: 1.958, -7.160
+oblslot: 0.400, -7.160
+oblslot: 0.400, -9.160
+slot_type: 1
+target_dir: 0
+start: 0.5527, -4.7740, 1.5708
+end: -1.9201, -3.3930, 1.5825
+ID_FINISHED
