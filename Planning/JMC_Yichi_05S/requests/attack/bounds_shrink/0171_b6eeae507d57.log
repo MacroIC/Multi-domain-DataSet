@@ -1,0 +1,19 @@
+ID: b6eeae507d57
+# ATTACK_TYPE: bounds_shrink
+plan_cnt: 5
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.252, 1.191
+oblslot: 0.252, 0.191
+oblslot: 5.331, 0.191
+oblslot: 5.370, -2.488
+oblslot: 0.563, -2.488
+oblslot: 0.563, -2.988
+slot_type: 2
+target_dir: 0
+start: 3.6967, -1.1255, 3.1568
+end: 3.0068, -1.1676, 3.1416
+ID_FINISHED

@@ -1,0 +1,19 @@
+ID: f715056b5efb
+# ATTACK_TYPE: bounds_shrink
+plan_cnt: 2
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.766, 1.162
+oblslot: 0.766, 0.162
+oblslot: 5.382, 0.162
+oblslot: 5.317, -2.529
+oblslot: 0.518, -2.529
+oblslot: 0.518, -3.029
+slot_type: 2
+target_dir: 0
+start: 3.6958, -1.3069, 3.1164
+end: 3.0040, -1.2821, 3.1417
+ID_FINISHED

@@ -1,0 +1,40 @@
+ID: e127f7f2325d
+# ATTACK_TYPE: bounds_shrink
+LinePtNum: 2
+LinePtCoord: -6704, -2236
+LinePtCoord: -6553, -1522
+LinePtNum: 4
+LinePtCoord: -741, 883
+LinePtCoord: -1408, 2318
+LinePtCoord: 658, 4136
+LinePtCoord: 1546, 4088
+LinePtNum: 3
+LinePtCoord: 5662, 6000
+LinePtCoord: 5731, 4280
+LinePtCoord: 5979, 3957
+LinePtNum: 3
+LinePtCoord: 57530, 3893
+LinePtCoord: 5986, 3164
+LinePtCoord: 5933, 2135
+LinePtNum: 4
+LinePtCoord: 5714, -9084
+LinePtCoord: 5400, -9513
+LinePtCoord: 2119, -5819
+LinePtCoord: 1934, -6022
+plan_cnt: 2
+xybounds: -8, 4, -4, 8
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.022, 3.614
+oblslot: 0.022, 1.614
+oblslot: 4.960, 1.530
+oblslot: 4.960, -6.543
+oblslot: 0.347, -6.543
+oblslot: 0.347, -7.043
+slot_type: 2
+target_dir: 0
+start: 3.6943, -1.3817, 3.1230
+end: 2.6876, -1.2459, 3.1941
+ID_FINISHED
