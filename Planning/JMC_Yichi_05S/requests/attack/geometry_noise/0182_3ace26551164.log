@@ -1,0 +1,19 @@
+ID: 3ace26551164
+# ATTACK_TYPE: geometry_noise
+plan_cnt: 3
+xybounds: -9, 5, -5, 9
+radarnums: 0  sidenums: 0
+endpos_correct_flag: 0
+real_obl: 0, 0
+expand_obl: 0, 0
+oblslot: 0.766, 1.162
+oblslot: 0.766, 0.162
+oblslot: 5.391, 0.162
+oblslot: 5.308, -2.508
+oblslot: 0.518, -2.508
+oblslot: 0.518, -3.008
+slot_type: 2
+target_dir: 1
+start: 3.1961, -1.2794, 3.1092
+end: 1.8294, -1.2551, 3.1000
+ID_FINISHED
